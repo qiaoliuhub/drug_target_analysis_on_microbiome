@@ -1,0 +1,635 @@
+id,name,## taxon_id,STRING_type,STRING_name_compact,official_name_NCBI,join_name
+0,Spirochaeta thermophila,665571,periphery,Spirochaeta thermophila,Spirochaeta thermophila DSM6192,Spirochaeta thermophila
+1,Nostoc punctiforme,63737,core,Nostoc punctiforme,Nostoc punctiforme PCC73102,Nostoc punctiforme
+4,Rhizobium leguminosarum,216596,core,Rhizobium leguminosarum 3841,Rhizobium leguminosarum bv. viciae 3841,Rhizobium leguminosarum
+4,Rhizobium leguminosarum,395492,periphery,Rhizobium leguminosarum WSM2304,Rhizobium leguminosarum bv. trifolii WSM2304,Rhizobium leguminosarum
+4,Rhizobium leguminosarum,936136,periphery,Rhizobium leguminosarum 248,Rhizobium leguminosarum bv. viciae 248,Rhizobium leguminosarum
+4,Rhizobium leguminosarum,1033991,periphery,Rhizobium leguminosarum CB782,Rhizobium leguminosarum bv. trifolii CB782,Rhizobium leguminosarum
+4,Rhizobium leguminosarum,1041142,periphery,Rhizobium leguminosarum GB30,Rhizobium leguminosarum bv. viciae GB30,Rhizobium leguminosarum
+5,Aquifex aeolicus,224324,core,Aquifex aeolicus,Aquifex aeolicus VF5,Aquifex aeolicus
+6,Aeromonas hydrophila,380703,periphery,Aeromonas hydrophila ATCC7966,Aeromonas hydrophila subsp. hydrophila ATCC7966,Aeromonas hydrophila
+6,Aeromonas hydrophila,1448139,periphery,Aeromonas hydrophila YL17,Aeromonas hydrophila YL17,Aeromonas hydrophila
+7,Streptomyces viridochromogenes,591159,periphery,Streptomyces viridochromogenes,Streptomyces viridochromogenes DSM40736,Streptomyces viridochromogenes
+8,Acidimicrobium ferrooxidans,525909,core,Acidimicrobium ferrooxidans,Acidimicrobium ferrooxidans DSM10331,Acidimicrobium ferrooxidans
+9,Staphylococcus lugdunensis,698737,periphery,Staphylococcus lugdunensis HKU0901,Staphylococcus lugdunensis HKU09-01,Staphylococcus lugdunensis
+9,Staphylococcus lugdunensis,1034809,periphery,Staphylococcus lugdunensis N920143,Staphylococcus lugdunensis N920143,Staphylococcus lugdunensis
+10,Parabacteroides merdae,411477,core,Parabacteroides merdae,Parabacteroides merdae ATCC43184,Parabacteroides merdae
+13,Acetobacter pasteurianus,634452,core,Acetobacter pasteurianus IFO328301,Acetobacter pasteurianus IFO 3283-01,Acetobacter pasteurianus
+13,Acetobacter pasteurianus,940282,periphery,Acetobacter pasteurianus 3P3,Acetobacter pasteurianus 3P3,Acetobacter pasteurianus
+14,Hyphomicrobium denitrificans,582899,core,Hyphomicrobium denitrificans ATCC51888,Hyphomicrobium denitrificans ATCC51888,Hyphomicrobium denitrificans
+14,Hyphomicrobium denitrificans,670307,periphery,Hyphomicrobium denitrificans 1NES1,Hyphomicrobium denitrificans 1NES1,Hyphomicrobium denitrificans
+17,Thermotoga neapolitana,309803,periphery,Thermotoga neapolitana,Thermotoga neapolitana DSM4359,Thermotoga neapolitana
+18,Acholeplasma laidlawii,441768,core,Acholeplasma laidlawii,Acholeplasma laidlawii PG-8A,Acholeplasma laidlawii
+19,Mycobacterium leprae,272631,periphery,Mycobacterium leprae,Mycobacterium leprae TN,Mycobacterium leprae
+20,Bacteroides pectinophilus,483218,core,Bacteroides pectinophilus,[Bacteroides] pectinophilus ATCC43243,Bacteroides pectinophilus
+21,Acetivibrio cellulolyticus,509191,core,Acetivibrio cellulolyticus,Acetivibrio cellulolyticus CD2,Acetivibrio cellulolyticus
+22,Enterococcus casseliflavus,565655,core,Enterococcus casseliflavus,Enterococcus casseliflavus EC20,Enterococcus casseliflavus
+25,Pediococcus acidilactici,862514,core,Pediococcus acidilactici DSM20284,Pediococcus acidilactici DSM20284,Pediococcus acidilactici
+27,Granulibacter bethesdensis,391165,core,Granulibacter bethesdensis,Granulibacter bethesdensis CGDNIH1,Granulibacter bethesdensis
+29,Clostridium carboxidivorans,536227,periphery,Clostridium carboxidivorans,Clostridium carboxidivorans P7,Clostridium carboxidivorans
+30,Thermodesulfovibrio yellowstonii,289376,core,Thermodesulfovibrio yellowstonii,Thermodesulfovibrio yellowstonii DSM11347,Thermodesulfovibrio yellowstonii
+31,Azorhizobium caulinodans,438753,core,Azorhizobium caulinodans,Azorhizobium caulinodans ORS 571,Azorhizobium caulinodans
+33,Lactobacillus gasseri,324831,periphery,Lactobacillus gasseri,Lactobacillus gasseri ATCC33323,Lactobacillus gasseri
+34,Streptococcus sanguinis,388919,periphery,Streptococcus sanguinis SK36,Streptococcus sanguinis SK36,Streptococcus sanguinis
+34,Streptococcus sanguinis,888808,periphery,Streptococcus sanguinis SK49,Streptococcus sanguinis SK49,Streptococcus sanguinis
+34,Streptococcus sanguinis,888816,periphery,Streptococcus sanguinis SK355,Streptococcus sanguinis SK355,Streptococcus sanguinis
+34,Streptococcus sanguinis,888821,periphery,Streptococcus sanguinis SK1057,Streptococcus sanguinis SK1057,Streptococcus sanguinis
+35,Lactobacillus ruminis,1069534,periphery,Lactobacillus ruminis ATCC27782,Lactobacillus ruminis ATCC27782,Lactobacillus ruminis
+37,Mycoplasma pneumoniae,722438,periphery,Mycoplasma pneumoniae,Mycoplasma pneumoniae FH,Mycoplasma pneumoniae
+39,Actinosynnema mirum,446462,core,Actinosynnema mirum,Actinosynnema mirum DSM43827,Actinosynnema mirum
+40,Aeropyrum pernix,272557,core,Aeropyrum pernix,Aeropyrum pernix K1,Aeropyrum pernix
+41,Streptococcus pneumoniae,170187,core,Streptococcus pneumoniae TIGR4,Streptococcus pneumoniae TIGR4,Streptococcus pneumoniae
+41,Streptococcus pneumoniae,171101,core,Streptococcus pneumoniae R6,Streptococcus pneumoniae R6,Streptococcus pneumoniae
+41,Streptococcus pneumoniae,373153,core,Streptococcus pneumoniae D39,Streptococcus pneumoniae D39,Streptococcus pneumoniae
+42,Methylosinus trichosporium,595536,core,Methylosinus trichosporium,Methylosinus trichosporium OB3b,Methylosinus trichosporium
+44,Rhizobium etli,347834,periphery,Rhizobium etli CFN42,Rhizobium etli CFN 42,Rhizobium etli
+44,Rhizobium etli,491916,periphery,Rhizobium etli CIAT652,Rhizobium etli CIAT 652,Rhizobium etli
+44,Rhizobium etli,1432050,periphery,Rhizobium etli mimosae,Rhizobium etli bv. mimosae str. IE4771,Rhizobium etli
+45,Coprococcus eutactus,411474,core,Coprococcus eutactus,Coprococcus eutactus ATCC27759,Coprococcus eutactus
+46,Bacillus pumilus,315750,core,Bacillus pumilus,Bacillus pumilus SAFR-032,Bacillus pumilus
+47,Geobacter metallireducens,269799,core,Geobacter metallireducens,Geobacter metallireducens GS-15,Geobacter metallireducens
+48,Methylococcus capsulatus,243233,core,Methylococcus capsulatus,Methylococcus capsulatus str. Bath,Methylococcus capsulatus
+49,Methanosarcina mazei,192952,periphery,Methanosarcina mazei,Methanosarcina mazei Go1,Methanosarcina mazei
+50,Syntrophobacter fumaroxidans,335543,core,Syntrophobacter fumaroxidans,Syntrophobacter fumaroxidans MPOB,Syntrophobacter fumaroxidans
+51,Bifidobacterium bifidum,398513,periphery,Bifidobacterium bifidum NCIMB41171,Bifidobacterium bifidum NCIMB 41171,Bifidobacterium bifidum
+51,Bifidobacterium bifidum,702459,periphery,Bifidobacterium bifidum PRL2010,Bifidobacterium bifidum PRL2010,Bifidobacterium bifidum
+53,Bifidobacterium gallicum,561180,periphery,Bifidobacterium gallicum,Bifidobacterium gallicum DSM20093,Bifidobacterium gallicum
+55,Desulfobacterium autotrophicum,177437,core,Desulfobacterium autotrophicum,Desulfobacterium autotrophicum HRM2,Desulfobacterium autotrophicum
+56,Methanococcus voltae,456320,core,Methanococcus voltae,Methanococcus voltae A3,Methanococcus voltae
+57,Pseudomonas syringae,205918,periphery,Pseudomonas syringae B728a,Pseudomonas syringae pv. syringae B728a,Pseudomonas syringae
+57,Pseudomonas syringae,223283,core,Pseudomonas syringae tomato,Pseudomonas syringae pv. tomato str. DC3000,Pseudomonas syringae
+57,Pseudomonas syringae,264730,core,Pseudomonas syringae phaseolicola,Pseudomonas syringae pv. phaseolicola 1448A,Pseudomonas syringae
+57,Pseudomonas syringae,629265,periphery,Pseudomonas syringae maculicola,Pseudomonas syringae pv. maculicola str. ES4326,Pseudomonas syringae
+57,Pseudomonas syringae,1357272,periphery,Pseudomonas syringae CC1417,Pseudomonas syringae CC1417,Pseudomonas syringae
+57,Pseudomonas syringae,1357275,periphery,Pseudomonas syringae CC1513,Pseudomonas syringae CC1513,Pseudomonas syringae
+57,Pseudomonas syringae,1357279,periphery,Pseudomonas syringae CC1557,Pseudomonas syringae CC1557,Pseudomonas syringae
+58,Acidaminococcus fermentans,591001,core,Acidaminococcus fermentans,Acidaminococcus fermentans DSM20731,Acidaminococcus fermentans
+59,Mesorhizobium loti,266835,core,Mesorhizobium loti MAFF303099,Mesorhizobium loti MAFF303099,Mesorhizobium loti
+59,Mesorhizobium loti,935548,periphery,Mesorhizobium loti R88b,Mesorhizobium loti R88b,Mesorhizobium loti
+59,Mesorhizobium loti,1040982,periphery,Mesorhizobium loti CJ3sym,Mesorhizobium loti CJ3sym,Mesorhizobium loti
+59,Mesorhizobium loti,1040983,periphery,Mesorhizobium loti USDA3471,Mesorhizobium loti USDA 3471,Mesorhizobium loti
+60,Leptotrichia buccalis,523794,core,Leptotrichia buccalis,Leptotrichia buccalis C-1013-b,Leptotrichia buccalis
+63,Burkholderia multivorans,395019,periphery,Burkholderia multivorans,Burkholderia multivorans ATCC17616,Burkholderia multivorans
+64,Mycobacterium smegmatis,246196,periphery,Mycobacterium smegmatis MC2155,Mycobacterium smegmatis str. MC2 155,Mycobacterium smegmatis
+64,Mycobacterium smegmatis,710686,periphery,Mycobacterium smegmatis JS623,Mycobacterium smegmatis JS623,Mycobacterium smegmatis
+65,Methanosarcina barkeri,269797,core,Methanosarcina barkeri,Methanosarcina barkeri str. Fusaro,Methanosarcina barkeri
+66,Chlorobium limicola,290315,periphery,Chlorobium limicola,Chlorobium limicola DSM245,Chlorobium limicola
+68,Mycoplasma pulmonis,272635,periphery,Mycoplasma pulmonis,Mycoplasma pulmonis UAB CTIP,Mycoplasma pulmonis
+69,Streptococcus oralis,655813,core,Streptococcus oralis ATCC35037,Streptococcus oralis ATCC35037,Streptococcus oralis
+69,Streptococcus oralis,888049,periphery,Streptococcus oralis ATCC49296,Streptococcus oralis ATCC49296,Streptococcus oralis
+69,Streptococcus oralis,927666,periphery,Streptococcus oralis Uo5,Streptococcus oralis Uo5,Streptococcus oralis
+69,Streptococcus oralis,1005704,periphery,Streptococcus oralis SK255,Streptococcus oralis SK255,Streptococcus oralis
+69,Streptococcus oralis,1095738,periphery,Streptococcus oralis SK1074,Streptococcus oralis SK1074,Streptococcus oralis
+71,Enterobacter cloacae,716541,core,Enterobacter cloacae ATCC13047,Enterobacter cloacae subsp. cloacae ATCC13047,Enterobacter cloacae
+71,Enterobacter cloacae,1045856,periphery,Enterobacter cloacae EcWSU1,Enterobacter cloacae EcWSU1,Enterobacter cloacae
+71,Enterobacter cloacae,1399774,periphery,Enterobacter cloacae JD6301,Enterobacter cloacae JD6301,Enterobacter cloacae
+73,Dorea formicigenerans,411461,core,Dorea formicigenerans ATCC27755,Dorea formicigenerans ATCC27755,Dorea formicigenerans
+73,Dorea formicigenerans,742765,periphery,Dorea formicigenerans 4653AFAA,Dorea formicigenerans 4_6_53AFAA,Dorea formicigenerans
+74,Bacillus cereus,1396,core,Bacillus cereus,Bacillus cereus,Bacillus cereus
+75,Lactobacillus sakei,314315,periphery,Lactobacillus sakei,Lactobacillus sakei subsp. sakei 23K,Lactobacillus sakei
+76,Bifidobacterium catenulatum,566552,periphery,Bifidobacterium catenulatum,Bifidobacterium catenulatum DSM16992,Bifidobacterium catenulatum
+77,Clostridium papyrosolvens,588581,periphery,Clostridium papyrosolvens,[Clostridium] papyrosolvens DSM2782,Clostridium papyrosolvens
+80,Mycoplasma hominis,347256,core,Mycoplasma hominis,Mycoplasma hominis ATCC23114,Mycoplasma hominis
+81,Chlorobium chlorochromatii,340177,core,Chlorobium chlorochromatii,Chlorobium chlorochromatii CaD3,Chlorobium chlorochromatii
+82,Clostridium cellulolyticum,394503,core,Clostridium cellulolyticum,Clostridium cellulolyticum H10,Clostridium cellulolyticum
+83,Pyrococcus abyssi,272844,core,Pyrococcus abyssi,Pyrococcus abyssi GE5,Pyrococcus abyssi
+84,Mycoplasma arthritidis,243272,periphery,Mycoplasma arthritidis,Mycoplasma arthritidis 158L3-1,Mycoplasma arthritidis
+85,Ruminococcus torques,411460,periphery,Ruminococcus torques ATCC27756,Ruminococcus torques ATCC27756,Ruminococcus torques
+86,Lactobacillus plantarum,220668,periphery,Lactobacillus plantarum,Lactobacillus plantarum WCFS1,Lactobacillus plantarum
+88,Streptococcus gordonii,467705,periphery,Streptococcus gordonii,Streptococcus gordonii str. Challis substr. CH1,Streptococcus gordonii
+89,Desulfococcus oleovorans,96561,core,Desulfococcus oleovorans,Desulfococcus oleovorans Hxd3,Desulfococcus oleovorans
+90,Citrobacter rodentium,637910,core,Citrobacter rodentium,Citrobacter rodentium ICC168,Citrobacter rodentium
+91,Citrobacter youngae,500640,periphery,Citrobacter youngae,Citrobacter youngae ATCC29220,Citrobacter youngae
+92,Rhodobacter sphaeroides,272943,periphery,Rhodobacter sphaeroides 241,Rhodobacter sphaeroides 2.4.1,Rhodobacter sphaeroides
+92,Rhodobacter sphaeroides,349102,core,Rhodobacter sphaeroides ATCC17025,Rhodobacter sphaeroides ATCC17025,Rhodobacter sphaeroides
+94,Azotobacter vinelandii,322710,core,Azotobacter vinelandii,Azotobacter vinelandii DJ,Azotobacter vinelandii
+95,Sulfolobus tokodaii,273063,periphery,Sulfolobus tokodaii,Sulfolobus tokodaii str. 7,Sulfolobus tokodaii
+98,Thermoplasma acidophilum,273075,periphery,Thermoplasma acidophilum,Thermoplasma acidophilum DSM1728,Thermoplasma acidophilum
+99,Acidithiobacillus caldus,637389,core,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC51756,Acidithiobacillus caldus
+100,Mesorhizobium opportunistum,536019,periphery,Mesorhizobium opportunistum,Mesorhizobium opportunistum WSM2075,Mesorhizobium opportunistum
+101,Thiomicrospira crunogena,317025,core,Thiomicrospira crunogena,Thiomicrospira crunogena XCL-2,Thiomicrospira crunogena
+104,Clostridium perfringens,195103,core,Clostridium perfringens ATCC13124,Clostridium perfringens ATCC13124,Clostridium perfringens
+105,Bacteroides thetaiotaomicron,226186,core,Bacteroides thetaiotaomicron,Bacteroides thetaiotaomicron VPI-5482,Bacteroides thetaiotaomicron
+106,Peptostreptococcus anaerobius,596329,core,Peptostreptococcus anaerobius 653L,Peptostreptococcus anaerobius 653-L,Peptostreptococcus anaerobius
+106,Peptostreptococcus anaerobius,1035196,periphery,Peptostreptococcus anaerobius VPI4330,Peptostreptococcus anaerobius VPI 4330,Peptostreptococcus anaerobius
+108,Frankia alni,326424,periphery,Frankia alni,Frankia alni ACN14a,Frankia alni
+109,Clostridium hiranonis,500633,periphery,Clostridium hiranonis,[Clostridium] hiranonis DSM13275,Clostridium hiranonis
+110,Actinomyces viscosus,562973,periphery,Actinomyces viscosus,Actinomyces viscosus C505,Actinomyces viscosus
+111,Rhodospirillum rubrum,269796,core,Rhodospirillum rubrum,Rhodospirillum rubrum ATCC11170,Rhodospirillum rubrum
+113,Neisseria flavescens,546264,core,Neisseria flavescens NRL30031H210,Neisseria flavescens NRL30031/H210,Neisseria flavescens
+113,Neisseria flavescens,596320,periphery,Neisseria flavescens SK114,Neisseria flavescens SK114,Neisseria flavescens
+114,Lactobacillus johnsonii,257314,periphery,Lactobacillus johnsonii,Lactobacillus johnsonii NCC 533,Lactobacillus johnsonii
+115,Mycoplasma mycoides,272632,periphery,Mycoplasma mycoides,Mycoplasma mycoides subsp. mycoides SC str. PG1,Mycoplasma mycoides
+116,Methylobacillus flagellatus,265072,core,Methylobacillus flagellatus,Methylobacillus flagellatus KT,Methylobacillus flagellatus
+117,Lactobacillus brevis,387344,periphery,Lactobacillus brevis ATCC367,Lactobacillus brevis ATCC367,Lactobacillus brevis
+118,Haemophilus parainfluenzae,862965,periphery,Haemophilus parainfluenzae,Haemophilus parainfluenzae T3T1,Haemophilus parainfluenzae
+120,Butyrivibrio fibrisolvens,1280696,periphery,Butyrivibrio fibrisolvens ND3005,Butyrivibrio fibrisolvens ND3005,Butyrivibrio fibrisolvens
+121,Streptococcus australis,888833,periphery,Streptococcus australis,Streptococcus australis ATCC700641,Streptococcus australis
+122,Methanothermococcus okinawensis,647113,core,Methanothermococcus okinawensis,Methanothermococcus okinawensis IH1,Methanothermococcus okinawensis
+123,Bacteroides coprocola,470145,periphery,Bacteroides coprocola,Bacteroides coprocola DSM17136,Bacteroides coprocola
+124,Finegoldia magna,334413,core,Finegoldia magna ATCC29328,Finegoldia magna ATCC29328,Finegoldia magna
+124,Finegoldia magna,525282,periphery,Finegoldia magna ATCC53516,Finegoldia magna ATCC53516,Finegoldia magna
+126,Bacillus licheniformis,279010,core,Bacillus licheniformis,Bacillus licheniformis DSM13,Bacillus licheniformis
+127,Bacillus megaterium,545693,core,Bacillus megaterium QM B1551,Bacillus megaterium QM B1551,Bacillus megaterium
+127,Bacillus megaterium,1348908,periphery,Bacillus megaterium MSP201,Bacillus megaterium MSP20.1,Bacillus megaterium
+128,Mycoplasma fermentans,496833,periphery,Mycoplasma fermentans,Mycoplasma fermentans PG18,Mycoplasma fermentans
+129,Methanococcus vannielii,406327,core,Methanococcus vannielii,Methanococcus vannielii SB,Methanococcus vannielii
+130,Streptococcus salivarius,1046629,periphery,Streptococcus salivarius 57I,Streptococcus salivarius 57.I,Streptococcus salivarius
+133,Ureaplasma urealyticum,565575,periphery,Ureaplasma urealyticum,Ureaplasma urealyticum serovar 10 str. ATCC33699,Ureaplasma urealyticum
+135,Bifidobacterium pseudocatenulatum,547043,periphery,Bifidobacterium pseudocatenulatum,Bifidobacterium pseudocatenulatum DSM20438,Bifidobacterium pseudocatenulatum
+136,Lactobacillus iners,713605,periphery,Lactobacillus iners,Lactobacillus iners AB-1,Lactobacillus iners
+137,Selenomonas noxia,585503,periphery,Selenomonas noxia ATCC43541,Selenomonas noxia ATCC43541,Selenomonas noxia
+137,Selenomonas noxia,702437,periphery,Selenomonas noxia F0398,Selenomonas noxia F0398,Selenomonas noxia
+139,Mycoplasma genitalium,243273,periphery,Mycoplasma genitalium,Mycoplasma genitalium G37,Mycoplasma genitalium
+140,Desulfonatronospira thiodismutans,555779,core,Desulfonatronospira thiodismutans,Desulfonatronospira thiodismutans ASO3-1,Desulfonatronospira thiodismutans
+141,Sulfolobus acidocaldarius,330779,periphery,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius DSM639,Sulfolobus acidocaldarius
+143,Methylocella silvestris,395965,core,Methylocella silvestris,Methylocella silvestris BL2,Methylocella silvestris
+145,Veillonella dispar,546273,core,Veillonella dispar,Veillonella dispar ATCC17748,Veillonella dispar
+146,Methylobacter tundripaludum,697282,core,Methylobacter tundripaludum,Methylobacter tundripaludum SV96,Methylobacter tundripaludum
+148,Mycoplasma synoviae,262723,periphery,Mycoplasma synoviae,Mycoplasma synoviae 53,Mycoplasma synoviae
+151,Nitrosomonas europaea,228410,periphery,Nitrosomonas europaea,Nitrosomonas europaea ATCC19718,Nitrosomonas europaea
+152,Cytophaga hutchinsonii,269798,core,Cytophaga hutchinsonii,Cytophaga hutchinsonii ATCC33406,Cytophaga hutchinsonii
+153,Methanocaldococcus jannaschii,243232,core,Methanocaldococcus jannaschii,Methanocaldococcus jannaschii DSM2661,Methanocaldococcus jannaschii
+156,Anabaena variabilis,240292,core,Anabaena variabilis,Anabaena variabilis ATCC29413,Anabaena variabilis
+157,Ureaplasma parvum,273119,core,Ureaplasma parvum,Ureaplasma parvum serovar 3 str. ATCC700970,Ureaplasma parvum
+158,Butyrivibrio proteoclasticus,515622,core,Butyrivibrio proteoclasticus B316,Butyrivibrio proteoclasticus B316,Butyrivibrio proteoclasticus
+158,Butyrivibrio proteoclasticus,1410650,periphery,Butyrivibrio proteoclasticus P6B7,Butyrivibrio proteoclasticus P6B7,Butyrivibrio proteoclasticus
+159,Streptococcus agalactiae,211110,periphery,Streptococcus agalactiae NEM316,Streptococcus agalactiae NEM316,Streptococcus agalactiae
+159,Streptococcus agalactiae,1154860,periphery,Streptococcus agalactiae LMG14747,Streptococcus agalactiae LMG 14747,Streptococcus agalactiae
+160,Geobacter lovleyi,398767,periphery,Geobacter lovleyi,Geobacter lovleyi SZ,Geobacter lovleyi
+162,Anaerococcus lactolyticus,525254,periphery,Anaerococcus lactolyticus ATCC51172,Anaerococcus lactolyticus ATCC51172,Anaerococcus lactolyticus
+162,Anaerococcus lactolyticus,1284686,periphery,Anaerococcus lactolyticus S7113,Anaerococcus lactolyticus S7-1-13,Anaerococcus lactolyticus
+163,Pseudomonas putida,76869,periphery,Pseudomonas putida GB1,Pseudomonas putida GB-1,Pseudomonas putida
+163,Pseudomonas putida,160488,core,Pseudomonas putida KT2440,Pseudomonas putida KT2440,Pseudomonas putida
+163,Pseudomonas putida,351746,core,Pseudomonas putida F1,Pseudomonas putida F1,Pseudomonas putida
+163,Pseudomonas putida,390235,periphery,Pseudomonas putida W619,Pseudomonas putida W619,Pseudomonas putida
+163,Pseudomonas putida,1005395,periphery,Pseudomonas putida CSV86,Pseudomonas putida CSV86,Pseudomonas putida
+163,Pseudomonas putida,1042876,periphery,Pseudomonas putida S16,Pseudomonas putida S16,Pseudomonas putida
+163,Pseudomonas putida,1211579,periphery,Pseudomonas putida NBRC14164,Pseudomonas putida NBRC 14164,Pseudomonas putida
+163,Pseudomonas putida,1240350,periphery,Pseudomonas putida MTCC5279,Pseudomonas putida MTCC 5279,Pseudomonas putida
+164,Streptococcus uberis,218495,periphery,Streptococcus uberis,Streptococcus uberis 0140J,Streptococcus uberis
+165,Proteus mirabilis,529507,periphery,Proteus mirabilis,Proteus mirabilis HI4320,Proteus mirabilis
+168,Mycoplasma leachii,880447,core,Mycoplasma leachii,Mycoplasma leachii PG50,Mycoplasma leachii
+169,Lactococcus lactis,272623,core,Lactococcus lactis Il1403,Lactococcus lactis subsp. lactis Il1403,Lactococcus lactis
+169,Lactococcus lactis,416870,core,Lactococcus lactis cremoris,Lactococcus lactis subsp. cremoris MG1363,Lactococcus lactis
+171,Xylella fastidiosa,160492,core,Xylella fastidiosa 9a5c,Xylella fastidiosa 9a5c,Xylella fastidiosa
+171,Xylella fastidiosa,1444770,periphery,Xylella fastidiosa PLS229,Xylella fastidiosa PLS229,Xylella fastidiosa
+172,Clostridium novyi,386415,core,Clostridium novyi NT,Clostridium novyi NT,Clostridium novyi
+172,Clostridium novyi,1443122,periphery,Clostridium novyi B NCTC9691,Clostridium novyi B str. NCTC9691,Clostridium novyi
+173,Acidiphilium cryptum,349163,core,Acidiphilium cryptum,Acidiphilium cryptum JF-5,Acidiphilium cryptum
+174,Erysipelothrix rhusiopathiae,650150,core,Erysipelothrix rhusiopathiae,Erysipelothrix rhusiopathiae str. Fujisawa,Erysipelothrix rhusiopathiae
+175,Mycoplasma agalactiae,2110,core,Mycoplasma agalactiae,Mycoplasma agalactiae,Mycoplasma agalactiae
+176,Mycoplasma bovis,289397,periphery,Mycoplasma bovis,Mycoplasma bovis PG45,Mycoplasma bovis
+177,Roseburia inulinivorans,622312,core,Roseburia inulinivorans,Roseburia inulinivorans DSM16841,Roseburia inulinivorans
+178,Methanoplanus petrolearius,679926,core,Methanoplanus petrolearius,Methanoplanus petrolearius DSM11571,Methanoplanus petrolearius
+179,Clostridium butyricum,632245,periphery,Clostridium butyricum,Clostridium butyricum E4 str. BoNT E BL5262,Clostridium butyricum
+180,Enterococcus gallinarum,565653,periphery,Enterococcus gallinarum,Enterococcus gallinarum EG2,Enterococcus gallinarum
+182,Beijerinckia indica,395963,core,Beijerinckia indica,Beijerinckia indica subsp. indica ATCC9039,Beijerinckia indica
+183,Helicobacter pylori,85962,periphery,Helicobacter pylori 26695,Helicobacter pylori 26695,Helicobacter pylori
+183,Helicobacter pylori,85963,periphery,Helicobacter pylori J99,Helicobacter pylori J99,Helicobacter pylori
+183,Helicobacter pylori,907239,periphery,Helicobacter pylori SouthAfrica7,Helicobacter pylori SouthAfrica7,Helicobacter pylori
+183,Helicobacter pylori,1345592,periphery,Helicobacter pylori SA213A,Helicobacter pylori SA213A,Helicobacter pylori
+184,Pseudomonas aeruginosa,287,core,Pseudomonas aeruginosa,Pseudomonas aeruginosa,Pseudomonas aeruginosa
+185,Collinsella stercoris,445975,periphery,Collinsella stercoris,Collinsella stercoris DSM13279,Collinsella stercoris
+186,Bacillus pseudofirmus,398511,periphery,Bacillus pseudofirmus,Bacillus pseudofirmus OF4,Bacillus pseudofirmus
+188,Methylacidiphilum infernorum,481448,core,Methylacidiphilum infernorum,Methylacidiphilum infernorum V4,Methylacidiphilum infernorum
+189,Prevotella copri,537011,periphery,Prevotella copri,Prevotella copri DSM18205,Prevotella copri
+191,Streptococcus thermophilus,264199,periphery,Streptococcus thermophilus LMG18311,Streptococcus thermophilus LMG 18311,Streptococcus thermophilus
+191,Streptococcus thermophilus,322159,periphery,Streptococcus thermophilus LMD9,Streptococcus thermophilus LMD-9,Streptococcus thermophilus
+193,Clostridium botulinum,445335,periphery,Clostridium botulinum NCTC2916,Clostridium botulinum NCTC2916,Clostridium botulinum
+193,Clostridium botulinum,536232,periphery,Clostridium botulinum A2 Kyoto,Clostridium botulinum A2 str. Kyoto,Clostridium botulinum
+193,Clostridium botulinum,536233,periphery,Clostridium botulinum E1 BoNT,Clostridium botulinum E1 str. 'BoNT E Beluga',Clostridium botulinum
+193,Clostridium botulinum,592027,core,Clostridium botulinum D 1873,Clostridium botulinum D str. 1873,Clostridium botulinum
+193,Clostridium botulinum,929506,periphery,Clostridium botulinum BKT015925,Clostridium botulinum BKT015925,Clostridium botulinum
+193,Clostridium botulinum,1415774,periphery,Clostridium botulinum 202F,Clostridium botulinum 202F,Clostridium botulinum
+193,Clostridium botulinum,1443125,periphery,Clostridium botulinum CD BKT12695,Clostridium botulinum C/D str. BKT12695,Clostridium botulinum
+195,Desulfovibrio desulfuricans,525146,core,Desulfovibrio desulfuricans ATCC27774,Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC27774,Desulfovibrio desulfuricans
+195,Desulfovibrio desulfuricans,641491,periphery,Desulfovibrio desulfuricans ND132,Desulfovibrio desulfuricans ND132,Desulfovibrio desulfuricans
+195,Desulfovibrio desulfuricans,1121445,periphery,Desulfovibrio desulfuricans DSM642,Desulfovibrio desulfuricans subsp. desulfuricans DSM642,Desulfovibrio desulfuricans
+196,Anaerococcus hydrogenalis,561177,periphery,Anaerococcus hydrogenalis,Anaerococcus hydrogenalis DSM7454,Anaerococcus hydrogenalis
+197,Mycoplasma mobile,267748,periphery,Mycoplasma mobile,Mycoplasma mobile 163K,Mycoplasma mobile
+198,Bacteroides vulgatus,435590,periphery,Bacteroides vulgatus,Bacteroides vulgatus ATCC8482,Bacteroides vulgatus
+199,Desulfatibacillum alkenivorans,439235,core,Desulfatibacillum alkenivorans,Desulfatibacillum alkenivorans AK-01,Desulfatibacillum alkenivorans
+200,Bacillus weihenstephanensis,315730,periphery,Bacillus weihenstephanensis,Bacillus weihenstephanensis KBAB4,Bacillus weihenstephanensis
+201,Thermotoga maritima,243274,core,Thermotoga maritima,Thermotoga maritima MSB8,Thermotoga maritima
+204,Sutterella wadsworthensis,742821,core,Sutterella wadsworthensis 3145B,Sutterella wadsworthensis 3_1_45B,Sutterella wadsworthensis
+204,Sutterella wadsworthensis,742823,periphery,Sutterella wadsworthensis 2159BFAA,Sutterella wadsworthensis 2_1_59BFAA,Sutterella wadsworthensis
+204,Sutterella wadsworthensis,1203554,periphery,Sutterella wadsworthensis HGA0223,Sutterella wadsworthensis HGA0223,Sutterella wadsworthensis
+205,Mycoplasma alligatoris,747682,periphery,Mycoplasma alligatoris,Mycoplasma alligatoris A21JP2,Mycoplasma alligatoris
+206,Caldicellulosiruptor saccharolyticus,351627,periphery,Caldicellulosiruptor saccharolyticus,Caldicellulosiruptor saccharolyticus DSM8903,Caldicellulosiruptor saccharolyticus
+207,Paenibacillus larvae,697284,periphery,Paenibacillus larvae,Paenibacillus larvae subsp. larvae DSM25430,Paenibacillus larvae
+208,Gluconobacter oxydans,290633,core,Gluconobacter oxydans 621H,Gluconobacter oxydans 621H,Gluconobacter oxydans
+208,Gluconobacter oxydans,1224746,periphery,Gluconobacter oxydans H24,Gluconobacter oxydans H24,Gluconobacter oxydans
+209,Micrococcus luteus,465515,core,Micrococcus luteus NCTC 2665,Micrococcus luteus NCTC 2665,Micrococcus luteus
+210,Bacteroides cellulosilyticus,1268240,periphery,Bacteroides cellulosilyticus,Bacteroides cellulosilyticus WH2,Bacteroides cellulosilyticus
+211,Lactobacillus buchneri,511437,periphery,Lactobacillus buchneri NRRLB30929,Lactobacillus buchneri NRRL B-30929,Lactobacillus buchneri
+211,Lactobacillus buchneri,525318,periphery,Lactobacillus buchneri ATCC11577,Lactobacillus buchneri ATCC11577,Lactobacillus buchneri
+211,Lactobacillus buchneri,1071400,core,Lactobacillus buchneri CD034,Lactobacillus buchneri CD034,Lactobacillus buchneri
+212,Neisseria mucosa,435832,core,Neisseria mucosa C102,Neisseria mucosa C102,Neisseria mucosa
+212,Neisseria mucosa,546266,periphery,Neisseria mucosa ATCC25996,Neisseria mucosa ATCC25996,Neisseria mucosa
+213,Buchnera aphidicola,107806,core,Buchnera aphidicola APS,Buchnera aphidicola str. APS,Buchnera aphidicola
+213,Buchnera aphidicola,198804,periphery,Buchnera aphidicola Sg,Buchnera aphidicola str. Sg,Buchnera aphidicola
+213,Buchnera aphidicola,224915,periphery,Buchnera aphidicola Bp,Buchnera aphidicola str. Bp,Buchnera aphidicola
+213,Buchnera aphidicola,261317,core,Buchnera aphidicola Ctu,Buchnera aphidicola str. Ctu,Buchnera aphidicola
+213,Buchnera aphidicola,372461,periphery,Buchnera aphidicola BCc,Buchnera aphidicola str. BCc,Buchnera aphidicola
+213,Buchnera aphidicola,1005057,periphery,Buchnera aphidicola Ua,Buchnera aphidicola str. Ua,Buchnera aphidicola
+213,Buchnera aphidicola,1005090,periphery,Buchnera aphidicola Ak,Buchnera aphidicola str. Ak,Buchnera aphidicola
+213,Buchnera aphidicola,1009858,periphery,Buchnera aphidicola G002,Buchnera aphidicola str. G002,Buchnera aphidicola
+215,Eubacterium limosum,903814,core,Eubacterium limosum,Eubacterium limosum KIST612,Eubacterium limosum
+216,Nitrosococcus oceani,323261,core,Nitrosococcus oceani,Nitrosococcus oceani ATCC19707,Nitrosococcus oceani
+217,Clostridium ljungdahlii,748727,periphery,Clostridium ljungdahlii,Clostridium ljungdahlii DSM13528,Clostridium ljungdahlii
+218,Geobacillus thermodenitrificans,420246,core,Geobacillus thermodenitrificans,Geobacillus thermodenitrificans NG80-2,Geobacillus thermodenitrificans
+219,Roseobacter denitrificans,375451,periphery,Roseobacter denitrificans,Roseobacter denitrificans OCh 114,Roseobacter denitrificans
+220,Thermococcus gammatolerans,593117,core,Thermococcus gammatolerans,Thermococcus gammatolerans EJ3,Thermococcus gammatolerans
+221,Anaerostipes caccae,411490,core,Anaerostipes caccae,Anaerostipes caccae DSM14662,Anaerostipes caccae
+222,Haemophilus influenzae,71421,core,Haemophilus influenzae,Haemophilus influenzae Rd KW20,Haemophilus influenzae
+223,Haloarcula marismortui,272569,periphery,Haloarcula marismortui,Haloarcula marismortui ATCC43049,Haloarcula marismortui
+225,Bilophila wadsworthia,563192,core,Bilophila wadsworthia 316,Bilophila wadsworthia 3_1_6,Bilophila wadsworthia
+225,Bilophila wadsworthia,1408428,periphery,Bilophila wadsworthia ATCC49260,Bilophila wadsworthia ATCC49260,Bilophila wadsworthia
+226,Veillonella atypica,866776,core,Veillonella atypica ACS049VSch6,Veillonella atypica ACS-049-V-Sch6,Veillonella atypica
+226,Veillonella atypica,1128111,periphery,Veillonella atypica KON,Veillonella atypica KON,Veillonella atypica
+228,Bacillus amyloliquefaciens,326423,periphery,Bacillus amyloliquefaciens,Bacillus amyloliquefaciens subsp. plantarum str. FZB42,Bacillus amyloliquefaciens
+230,Anaerococcus tetradius,525255,periphery,Anaerococcus tetradius,Anaerococcus tetradius ATCC35098,Anaerococcus tetradius
+231,Desulfohalobium retbaense,485915,core,Desulfohalobium retbaense,Desulfohalobium retbaense DSM5692,Desulfohalobium retbaense
+232,Streptococcus cristatus,889201,periphery,Streptococcus cristatus,Streptococcus cristatus ATCC51100,Streptococcus cristatus
+233,Mycoplasma penetrans,272633,periphery,Mycoplasma penetrans,Mycoplasma penetrans HF-2,Mycoplasma penetrans
+234,Ignicoccus hospitalis,453591,core,Ignicoccus hospitalis,Ignicoccus hospitalis KIN4/I,Ignicoccus hospitalis
+235,Escherichia coli,155864,periphery,Escherichia coli O157H7,Escherichia coli O157:H7 str. EDL933,Escherichia coli
+235,Escherichia coli,199310,core,Escherichia coli CFT073,Escherichia coli CFT073,Escherichia coli
+235,Escherichia coli,316407,periphery,Escherichia coli K12 W3110,Escherichia coli str. K-12 substr. W3110,Escherichia coli
+235,Escherichia coli,362663,periphery,Escherichia coli 536,Escherichia coli 536,Escherichia coli
+235,Escherichia coli,469008,periphery,Escherichia coli BL21,Escherichia coli BL21(DE3),Escherichia coli
+235,Escherichia coli,481805,periphery,Escherichia coli ATCC8739,Escherichia coli ATCC8739,Escherichia coli
+235,Escherichia coli,511145,core,Escherichia coli K12 MG1655,Escherichia coli str. K-12 substr. MG1655,Escherichia coli
+236,Klebsiella pneumoniae,573,core,Klebsiella pneumoniae,Klebsiella pneumoniae,Klebsiella pneumoniae
+237,Eubacterium hallii,411469,core,Eubacterium hallii,[Eubacterium] hallii DSM3353,Eubacterium hallii
+239,Desulfomicrobium baculatum,525897,core,Desulfomicrobium baculatum,Desulfomicrobium baculatum DSM4028,Desulfomicrobium baculatum
+240,Thermus thermophilus,262724,core,Thermus thermophilus HB27,Thermus thermophilus HB27,Thermus thermophilus
+240,Thermus thermophilus,300852,periphery,Thermus thermophilus HB8,Thermus thermophilus HB8,Thermus thermophilus
+241,Megamonas hypermegale,1122216,periphery,Megamonas hypermegale,Megamonas hypermegale DSM1672,Megamonas hypermegale
+242,Caldivirga maquilingensis,397948,periphery,Caldivirga maquilingensis,Caldivirga maquilingensis IC-167,Caldivirga maquilingensis
+244,Bifidobacterium breve,326426,periphery,Bifidobacterium breve,Bifidobacterium breve UCC2003,Bifidobacterium breve
+245,Ralstonia pickettii,402626,core,Ralstonia pickettii 12J,Ralstonia pickettii 12J,Ralstonia pickettii
+245,Ralstonia pickettii,1366050,periphery,Ralstonia pickettii DTP0602,Ralstonia pickettii DTP0602,Ralstonia pickettii
+246,Thermomonospora curvata,471852,periphery,Thermomonospora curvata,Thermomonospora curvata DSM43183,Thermomonospora curvata
+247,Butyrivibrio crossotus,511680,periphery,Butyrivibrio crossotus,Butyrivibrio crossotus DSM2876,Butyrivibrio crossotus
+248,Porphyromonas asaccharolytica,879243,periphery,Porphyromonas asaccharolytica,Porphyromonas asaccharolytica DSM20707,Porphyromonas asaccharolytica
+249,Thermobifida fusca,269800,core,Thermobifida fusca,Thermobifida fusca YX,Thermobifida fusca
+250,Bacillus coahuilensis,441769,core,Bacillus coahuilensis,Bacillus coahuilensis m4-4,Bacillus coahuilensis
+251,Streptococcus peroris,888746,core,Streptococcus peroris,Streptococcus peroris ATCC700780,Streptococcus peroris
+252,Peptoniphilus lacrimalis,596330,periphery,Peptoniphilus lacrimalis,Peptoniphilus lacrimalis 315-B,Peptoniphilus lacrimalis
+253,Alicycliphilus denitrificans,596153,periphery,Alicycliphilus denitrificans BC,Alicycliphilus denitrificans BC,Alicycliphilus denitrificans
+253,Alicycliphilus denitrificans,596154,core,Alicycliphilus denitrificans K601,Alicycliphilus denitrificans K601,Alicycliphilus denitrificans
+254,Sodalis glossinidius,343509,core,Sodalis glossinidius,Sodalis glossinidius str. 'morsitans',Sodalis glossinidius
+255,Campylobacter jejuni,192222,core,Campylobacter jejuni NCTC11168,Campylobacter jejuni subsp. jejuni NCTC11168,Campylobacter jejuni
+255,Campylobacter jejuni,354242,periphery,Campylobacter jejuni 81176,Campylobacter jejuni subsp. jejuni 81-176,Campylobacter jejuni
+255,Campylobacter jejuni,683083,periphery,Campylobacter jejuni 414,Campylobacter jejuni subsp. jejuni 414,Campylobacter jejuni
+258,Thermococcus barophilus,391623,periphery,Thermococcus barophilus,Thermococcus barophilus MP,Thermococcus barophilus
+259,Methanocaldococcus vulcanius,579137,periphery,Methanocaldococcus vulcanius,Methanocaldococcus vulcanius M7,Methanocaldococcus vulcanius
+260,Moraxella catarrhalis,857571,core,Moraxella catarrhalis,Moraxella catarrhalis O35E,Moraxella catarrhalis
+261,Anaerococcus prevotii,525919,core,Anaerococcus prevotii DSM20548,Anaerococcus prevotii DSM20548,Anaerococcus prevotii
+261,Anaerococcus prevotii,879305,periphery,Anaerococcus prevotii ACS065VCol13,Anaerococcus prevotii ACS-065-V-Col13,Anaerococcus prevotii
+262,Bacteroides helcogenes,693979,periphery,Bacteroides helcogenes,Bacteroides helcogenes P 36-108,Bacteroides helcogenes
+263,Streptococcus infantis,889204,periphery,Streptococcus infantis ATCC700779,Streptococcus infantis ATCC700779,Streptococcus infantis
+263,Streptococcus infantis,997830,periphery,Streptococcus infantis X,Streptococcus infantis X,Streptococcus infantis
+263,Streptococcus infantis,1005705,periphery,Streptococcus infantis SK1076,Streptococcus infantis SK1076,Streptococcus infantis
+263,Streptococcus infantis,1035189,periphery,Streptococcus infantis SK970,Streptococcus infantis SK970,Streptococcus infantis
+265,Bacteroides plebeius,484018,periphery,Bacteroides plebeius,Bacteroides plebeius DSM17135,Bacteroides plebeius
+266,Clostridium saccharolyticum,610130,core,Clostridium saccharolyticum WM1,[Clostridium] saccharolyticum WM1,Clostridium saccharolyticum
+268,Chlorobium phaeobacteroides,290317,periphery,Chlorobium phaeobacteroides DSM266,Chlorobium phaeobacteroides DSM266,Chlorobium phaeobacteroides
+268,Chlorobium phaeobacteroides,331678,periphery,Chlorobium phaeobacteroides BS1,Chlorobium phaeobacteroides BS1,Chlorobium phaeobacteroides
+269,Listeria monocytogenes,169963,core,Listeria monocytogenes EGDe,Listeria monocytogenes EGD-e,Listeria monocytogenes
+269,Listeria monocytogenes,1027396,periphery,Listeria monocytogenes Scott,Listeria monocytogenes str. Scott A,Listeria monocytogenes
+270,Syntrophomonas wolfei,335541,periphery,Syntrophomonas wolfei,Syntrophomonas wolfei subsp. wolfei str. Goettingen G311,Syntrophomonas wolfei
+271,Bacteroides stercoris,449673,periphery,Bacteroides stercoris,Bacteroides stercoris ATCC43183,Bacteroides stercoris
+274,Desulfovibrio aespoeensis,643562,periphery,Desulfovibrio aespoeensis,Desulfovibrio aespoeensis Aspo-2,Desulfovibrio aespoeensis
+275,Oxalobacter formigenes,556268,periphery,Oxalobacter formigenes HOxBLS,Oxalobacter formigenes HOxBLS,Oxalobacter formigenes
+275,Oxalobacter formigenes,556269,periphery,Oxalobacter formigenes OXCC13,Oxalobacter formigenes OXCC13,Oxalobacter formigenes
+276,Eubacterium cellulosolvens,633697,core,Eubacterium cellulosolvens 6,[Eubacterium] cellulosolvens 6,Eubacterium cellulosolvens
+276,Eubacterium cellulosolvens,1408436,periphery,Eubacterium cellulosolvens LD2006,[Eubacterium] cellulosolvens LD2006,Eubacterium cellulosolvens
+277,Actinomyces coleocanis,525245,periphery,Actinomyces coleocanis,Actinomyces coleocanis DSM15436,Actinomyces coleocanis
+278,Pyrobaculum aerophilum,178306,periphery,Pyrobaculum aerophilum,Pyrobaculum aerophilum str. IM2,Pyrobaculum aerophilum
+279,Collinsella intestinalis,521003,core,Collinsella intestinalis,Collinsella intestinalis DSM13280,Collinsella intestinalis
+280,Akkermansia muciniphila,349741,core,Akkermansia muciniphila,Akkermansia muciniphila ATCC BAA-835,Akkermansia muciniphila
+281,Ilyobacter polytropus,572544,core,Ilyobacter polytropus,Ilyobacter polytropus DSM2926,Ilyobacter polytropus
+282,Flavobacterium johnsoniae,376686,core,Flavobacterium johnsoniae,Flavobacterium johnsoniae UW101,Flavobacterium johnsoniae
+283,Shewanella denitrificans,318161,periphery,Shewanella denitrificans,Shewanella denitrificans OS217,Shewanella denitrificans
+284,Desulfovibrio salexigens,526222,periphery,Desulfovibrio salexigens,Desulfovibrio salexigens DSM2638,Desulfovibrio salexigens
+286,Archaeoglobus profundus,572546,periphery,Archaeoglobus profundus,Archaeoglobus profundus DSM5631,Archaeoglobus profundus
+288,Burkholderia cepacia,292,core,Burkholderia cepacia,Burkholderia cepacia,Burkholderia cepacia
+290,Clostridium symbiosum,742740,periphery,Clostridium symbiosum WAL14163,[Clostridium] symbiosum WAL-14163,Clostridium symbiosum
+290,Clostridium symbiosum,742741,core,Clostridium symbiosum WAL14673,[Clostridium] symbiosum WAL-14673,Clostridium symbiosum
+291,Bradyrhizobium japonicum,1037409,periphery,Bradyrhizobium japonicum USDA6,Bradyrhizobium japonicum USDA 6,Bradyrhizobium japonicum
+291,Bradyrhizobium japonicum,1038862,periphery,Bradyrhizobium japonicum USDA124,Bradyrhizobium japonicum USDA 124,Bradyrhizobium japonicum
+291,Bradyrhizobium japonicum,1304877,periphery,Bradyrhizobium japonicum 22,Bradyrhizobium japonicum 22,Bradyrhizobium japonicum
+291,Bradyrhizobium japonicum,1304878,periphery,Bradyrhizobium japonicum in8p8,Bradyrhizobium japonicum in8p8,Bradyrhizobium japonicum
+293,Desulfovibrio vulgaris,882,core,Desulfovibrio vulgaris Hildenborough,Desulfovibrio vulgaris str. Hildenborough,Desulfovibrio vulgaris
+293,Desulfovibrio vulgaris,883,periphery,Desulfovibrio vulgaris Miyazaki,Desulfovibrio vulgaris str. 'Miyazaki F',Desulfovibrio vulgaris
+294,Streptococcus pseudoporcinus,910313,periphery,Streptococcus pseudoporcinus,Streptococcus pseudoporcinus SPIN 20026,Streptococcus pseudoporcinus
+295,Leptotrichia goodfellowii,596323,periphery,Leptotrichia goodfellowii,Leptotrichia goodfellowii F0264,Leptotrichia goodfellowii
+296,Lactobacillus oris,908339,periphery,Lactobacillus oris PB013T23,Lactobacillus oris PB013-T2-3,Lactobacillus oris
+296,Lactobacillus oris,944562,periphery,Lactobacillus oris F0423,Lactobacillus oris F0423,Lactobacillus oris
+297,Methanococcus maripaludis,267377,periphery,Methanococcus maripaludis S2,Methanococcus maripaludis S2,Methanococcus maripaludis
+297,Methanococcus maripaludis,402880,periphery,Methanococcus maripaludis C5,Methanococcus maripaludis C5,Methanococcus maripaludis
+297,Methanococcus maripaludis,426368,core,Methanococcus maripaludis C7,Methanococcus maripaludis C7,Methanococcus maripaludis
+297,Methanococcus maripaludis,444158,core,Methanococcus maripaludis C6,Methanococcus maripaludis C6,Methanococcus maripaludis
+298,Nitrosomonas eutropha,335283,core,Nitrosomonas eutropha,Nitrosomonas eutropha C91,Nitrosomonas eutropha
+299,Selenomonas flueggei,638302,core,Selenomonas flueggei,Selenomonas flueggei ATCC43531,Selenomonas flueggei
+300,Staphylococcus aureus,1280,core,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus
+301,Xanthobacter autotrophicus,78245,core,Xanthobacter autotrophicus,Xanthobacter autotrophicus Py2,Xanthobacter autotrophicus
+302,Parabacteroides distasonis,435591,periphery,Parabacteroides distasonis,Parabacteroides distasonis ATCC8503,Parabacteroides distasonis
+303,Lactobacillus jensenii,575605,periphery,Lactobacillus jensenii 1153CHN,Lactobacillus jensenii 115-3-CHN,Lactobacillus jensenii
+303,Lactobacillus jensenii,575606,periphery,Lactobacillus jensenii 272CHN,Lactobacillus jensenii 27-2-CHN,Lactobacillus jensenii
+304,Bacillus coagulans,345219,periphery,Bacillus coagulans 36D1,Bacillus coagulans 36D1,Bacillus coagulans
+304,Bacillus coagulans,941639,periphery,Bacillus coagulans 26,Bacillus coagulans 2-6,Bacillus coagulans
+306,Bifidobacterium angulatum,518635,periphery,Bifidobacterium angulatum,Bifidobacterium angulatum DSM20098,Bifidobacterium angulatum
+307,Bacteroides intestinalis,471870,periphery,Bacteroides intestinalis,Bacteroides intestinalis DSM17393,Bacteroides intestinalis
+309,Campylobacter gracilis,553220,periphery,Campylobacter gracilis,Campylobacter gracilis RM3268,Campylobacter gracilis
+310,Lactobacillus vaginalis,1423814,periphery,Lactobacillus vaginalis,Lactobacillus vaginalis DSM5837,Lactobacillus vaginalis
+311,Dorea longicatena,411462,core,Dorea longicatena DSM13814,Dorea longicatena DSM13814,Dorea longicatena
+311,Dorea longicatena,1280698,periphery,Dorea longicatena AGR2136,Dorea longicatena AGR2136,Dorea longicatena
+312,Lactobacillus helveticus,326425,periphery,Lactobacillus helveticus CNRZ32,Lactobacillus helveticus CNRZ32,Lactobacillus helveticus
+312,Lactobacillus helveticus,405566,periphery,Lactobacillus helveticus DPC4571,Lactobacillus helveticus DPC 4571,Lactobacillus helveticus
+314,Methanocaldococcus infernus,573063,periphery,Methanocaldococcus infernus,Methanocaldococcus infernus ME,Methanocaldococcus infernus
+315,Bacteroides uniformis,411479,periphery,Bacteroides uniformis,Bacteroides uniformis ATCC8492,Bacteroides uniformis
+316,Methylobacterium nodulans,460265,periphery,Methylobacterium nodulans,Methylobacterium nodulans ORS 2060,Methylobacterium nodulans
+317,Corynebacterium diphtheriae,698964,periphery,Corynebacterium diphtheriae,Corynebacterium diphtheriae PW8,Corynebacterium diphtheriae
+318,Bacteroides coprophilus,547042,periphery,Bacteroides coprophilus,Bacteroides coprophilus DSM18228,Bacteroides coprophilus
+319,Mycoplasma hyopneumoniae,262719,core,Mycoplasma hyopneumoniae J,Mycoplasma hyopneumoniae J,Mycoplasma hyopneumoniae
+319,Mycoplasma hyopneumoniae,295358,periphery,Mycoplasma hyopneumoniae 232,Mycoplasma hyopneumoniae 232,Mycoplasma hyopneumoniae
+320,Aminobacterium colombiense,572547,core,Aminobacterium colombiense,Aminobacterium colombiense DSM12261,Aminobacterium colombiense
+321,Desulfovibrio magneticus,573370,core,Desulfovibrio magneticus RS1,Desulfovibrio magneticus RS-1,Desulfovibrio magneticus
+321,Desulfovibrio magneticus,1304872,periphery,Desulfovibrio magneticus IFRC170,Desulfovibrio cf. magneticus IFRC170,Desulfovibrio magneticus
+322,Calditerrivibrio nitroreducens,768670,periphery,Calditerrivibrio nitroreducens,Calditerrivibrio nitroreducens DSM19672,Calditerrivibrio nitroreducens
+323,Thiobacillus denitrificans,292415,core,Thiobacillus denitrificans ATCC25259,Thiobacillus denitrificans ATCC25259,Thiobacillus denitrificans
+323,Thiobacillus denitrificans,1123392,periphery,Thiobacillus denitrificans DSM12475,Thiobacillus denitrificans DSM12475,Thiobacillus denitrificans
+324,Desulfotalea psychrophila,177439,core,Desulfotalea psychrophila,Desulfotalea psychrophila LSv54,Desulfotalea psychrophila
+325,Thermococcus onnurineus,523850,core,Thermococcus onnurineus,Thermococcus onnurineus NA1,Thermococcus onnurineus
+326,Fusobacterium nucleatum,190304,core,Fusobacterium nucleatum ATCC25586,Fusobacterium nucleatum subsp. nucleatum ATCC25586,Fusobacterium nucleatum
+326,Fusobacterium nucleatum,393480,core,Fusobacterium nucleatum polymorphum,Fusobacterium nucleatum subsp. polymorphum ATCC10953,Fusobacterium nucleatum
+326,Fusobacterium nucleatum,457405,periphery,Fusobacterium nucleatum animalis,Fusobacterium nucleatum subsp. animalis 7_1,Fusobacterium nucleatum
+326,Fusobacterium nucleatum,469604,periphery,Fusobacterium nucleatum vincentii 3136A2,Fusobacterium nucleatum subsp. vincentii 3_1_36A2,Fusobacterium nucleatum
+326,Fusobacterium nucleatum,469606,periphery,Fusobacterium nucleatum vincentii 4113,Fusobacterium nucleatum subsp. vincentii 4_1_13,Fusobacterium nucleatum
+326,Fusobacterium nucleatum,1408287,periphery,Fusobacterium nucleatum W1481,Fusobacterium nucleatum W1481,Fusobacterium nucleatum
+327,Streptococcus vestibularis,904306,periphery,Streptococcus vestibularis,Streptococcus vestibularis F0396,Streptococcus vestibularis
+328,Bacillus selenitireducens,439292,core,Bacillus selenitireducens,[Bacillus] selenitireducens MLS10,Bacillus selenitireducens
+329,Ruminococcus albus,246199,core,Ruminococcus albus 8,Ruminococcus albus 8,Ruminococcus albus
+329,Ruminococcus albus,697329,periphery,Ruminococcus albus 7,Ruminococcus albus 7,Ruminococcus albus
+329,Ruminococcus albus,1384065,periphery,Ruminococcus albus AD2013,Ruminococcus albus AD2013,Ruminococcus albus
+330,Lactobacillus fermentum,334390,periphery,Lactobacillus fermentum IFO3956,Lactobacillus fermentum IFO 3956,Lactobacillus fermentum
+331,Xanthomonas campestris,340,core,Xanthomonas campestris campestris,Xanthomonas campestris pv. campestris,Xanthomonas campestris
+331,Xanthomonas campestris,316273,periphery,Xanthomonas campestris vesicatoria,Xanthomonas campestris pv. vesicatoria str. 85-10,Xanthomonas campestris
+331,Xanthomonas campestris,1094184,periphery,Xanthomonas campestris musacearum,Xanthomonas campestris pv. musacearum NCPPB 4379,Xanthomonas campestris
+332,Aeromonas salmonicida,382245,core,Aeromonas salmonicida,Aeromonas salmonicida subsp. salmonicida A449,Aeromonas salmonicida
+334,Proteus penneri,471881,periphery,Proteus penneri,Proteus penneri ATCC35198,Proteus penneri
+335,Eubacterium eligens,515620,core,Eubacterium eligens,[Eubacterium] eligens ATCC27750,Eubacterium eligens
+336,Moorella thermoacetica,264732,core,Moorella thermoacetica,Moorella thermoacetica ATCC39073,Moorella thermoacetica
+337,Bacteroides fragilis,272559,core,Bacteroides fragilis NCTC 9343,Bacteroides fragilis NCTC 9343,Bacteroides fragilis
+337,Bacteroides fragilis,457424,periphery,Bacteroides fragilis 3112,Bacteroides fragilis 3_1_12,Bacteroides fragilis
+340,Bacteroides caccae,411901,periphery,Bacteroides caccae,Bacteroides caccae ATCC43185,Bacteroides caccae
+341,Streptococcus equi,40041,core,Streptococcus equi,Streptococcus equi subsp. zooepidemicus,Streptococcus equi
+343,Brevibacillus brevis,358681,core,Brevibacillus brevis NBRC100599,Brevibacillus brevis NBRC 100599,Brevibacillus brevis
+343,Brevibacillus brevis,1200792,periphery,Brevibacillus brevis X23,Brevibacillus brevis X23,Brevibacillus brevis
+344,Paracoccus denitrificans,318586,core,Paracoccus denitrificans,Paracoccus denitrificans PD1222,Paracoccus denitrificans
+346,Syntrophothermus lipocalidus,643648,core,Syntrophothermus lipocalidus,Syntrophothermus lipocalidus DSM12680,Syntrophothermus lipocalidus
+347,Megasphaera micronuciformis,706434,periphery,Megasphaera micronuciformis,Megasphaera micronuciformis F0359,Megasphaera micronuciformis
+348,Methanospirillum hungatei,323259,periphery,Methanospirillum hungatei,Methanospirillum hungatei JF-1,Methanospirillum hungatei
+350,Vibrio cholerae,243277,core,Vibrio cholerae O1,Vibrio cholerae O1 biovar El Tor str. N16961,Vibrio cholerae
+350,Vibrio cholerae,345073,periphery,Vibrio cholerae O395,Vibrio cholerae O395,Vibrio cholerae
+351,Sulfolobus islandicus,930945,periphery,Sulfolobus islandicus,Sulfolobus islandicus REY15A,Sulfolobus islandicus
+354,Archaeoglobus fulgidus,224325,core,Archaeoglobus fulgidus,Archaeoglobus fulgidus DSM4304,Archaeoglobus fulgidus
+355,Methanococcus aeolicus,419665,core,Methanococcus aeolicus,Methanococcus aeolicus Nankai-3,Methanococcus aeolicus
+358,Leuconostoc mesenteroides,203120,periphery,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides ATCC8293,Leuconostoc mesenteroides
+363,Wolinella succinogenes,273121,core,Wolinella succinogenes,Wolinella succinogenes DSM1740,Wolinella succinogenes
+365,Allochromatium vinosum,572477,core,Allochromatium vinosum,Allochromatium vinosum DSM180,Allochromatium vinosum
+366,Mycoplasma hyorhinis,1118964,periphery,Mycoplasma hyorhinis SK76,Mycoplasma hyorhinis SK76,Mycoplasma hyorhinis
+366,Mycoplasma hyorhinis,1129369,core,Mycoplasma hyorhinis GDL1,Mycoplasma hyorhinis GDL-1,Mycoplasma hyorhinis
+367,Methylibium petroleiphilum,420662,core,Methylibium petroleiphilum,Methylibium petroleiphilum PM1,Methylibium petroleiphilum
+368,Rhodopseudomonas palustris,258594,core,Rhodopseudomonas palustris CGA009,Rhodopseudomonas palustris CGA009,Rhodopseudomonas palustris
+368,Rhodopseudomonas palustris,316055,periphery,Rhodopseudomonas palustris BisA53,Rhodopseudomonas palustris BisA53,Rhodopseudomonas palustris
+368,Rhodopseudomonas palustris,316056,periphery,Rhodopseudomonas palustris BisB18,Rhodopseudomonas palustris BisB18,Rhodopseudomonas palustris
+368,Rhodopseudomonas palustris,316057,periphery,Rhodopseudomonas palustris BisB5,Rhodopseudomonas palustris BisB5,Rhodopseudomonas palustris
+368,Rhodopseudomonas palustris,316058,periphery,Rhodopseudomonas palustris HaA2,Rhodopseudomonas palustris HaA2,Rhodopseudomonas palustris
+368,Rhodopseudomonas palustris,652103,core,Rhodopseudomonas palustris DX1,Rhodopseudomonas palustris DX-1,Rhodopseudomonas palustris
+369,Burkholderia glumae,626418,periphery,Burkholderia glumae,Burkholderia glumae BGR1,Burkholderia glumae
+371,Streptococcus mitis,246201,core,Streptococcus mitis NCTC 12261,Streptococcus mitis NCTC 12261,Streptococcus mitis
+371,Streptococcus mitis,365659,periphery,Streptococcus mitis B6,Streptococcus mitis B6,Streptococcus mitis
+371,Streptococcus mitis,585202,periphery,Streptococcus mitis SK321,Streptococcus mitis SK321,Streptococcus mitis
+371,Streptococcus mitis,585203,periphery,Streptococcus mitis SK564,Streptococcus mitis SK564,Streptococcus mitis
+371,Streptococcus mitis,585204,periphery,Streptococcus mitis SK597,Streptococcus mitis SK597,Streptococcus mitis
+371,Streptococcus mitis,768726,periphery,Streptococcus mitis 2 F0392,Streptococcus mitis bv. 2 str. F0392,Streptococcus mitis
+371,Streptococcus mitis,864567,periphery,Streptococcus mitis ATCC6249,Streptococcus mitis ATCC6249,Streptococcus mitis
+371,Streptococcus mitis,1000588,periphery,Streptococcus mitis 2 SK95,Streptococcus mitis bv. 2 str. SK95,Streptococcus mitis
+371,Streptococcus mitis,1008453,periphery,Streptococcus mitis SK1080,Streptococcus mitis SK1080,Streptococcus mitis
+371,Streptococcus mitis,1035187,periphery,Streptococcus mitis SK569,Streptococcus mitis SK569,Streptococcus mitis
+371,Streptococcus mitis,1095737,periphery,Streptococcus mitis SK579,Streptococcus mitis SK579,Streptococcus mitis
+372,Acidithiobacillus ferrooxidans,243159,core,Acidithiobacillus ferrooxidans ATCC23270,Acidithiobacillus ferrooxidans ATCC23270,Acidithiobacillus ferrooxidans
+372,Acidithiobacillus ferrooxidans,380394,periphery,Acidithiobacillus ferrooxidans ATCC53993,Acidithiobacillus ferrooxidans ATCC53993,Acidithiobacillus ferrooxidans
+374,Methanocaldococcus fervens,573064,core,Methanocaldococcus fervens,Methanocaldococcus fervens AG86,Methanocaldococcus fervens
+375,Anaerococcus vaginalis,655811,periphery,Anaerococcus vaginalis,Anaerococcus vaginalis ATCC51170,Anaerococcus vaginalis
+376,Chloroflexus aurantiacus,324602,periphery,Chloroflexus aurantiacus,Chloroflexus aurantiacus J-10-fl,Chloroflexus aurantiacus
+377,Rhodobacter capsulatus,272942,periphery,Rhodobacter capsulatus,Rhodobacter capsulatus SB 1003,Rhodobacter capsulatus
+378,Zymomonas mobilis,264203,periphery,Zymomonas mobilis ZM4,Zymomonas mobilis subsp. mobilis ZM4,Zymomonas mobilis
+378,Zymomonas mobilis,555217,core,Zymomonas mobilis ATCC10988,Zymomonas mobilis subsp. mobilis ATCC10988,Zymomonas mobilis
+378,Zymomonas mobilis,579138,periphery,Zymomonas mobilis pomaceae,Zymomonas mobilis subsp. pomaceae ATCC29192,Zymomonas mobilis
+379,Geobacter sulfurreducens,243231,core,Geobacter sulfurreducens,Geobacter sulfurreducens PCA,Geobacter sulfurreducens
+380,Ruminococcus lactaris,471875,periphery,Ruminococcus lactaris,Ruminococcus lactaris ATCC29176,Ruminococcus lactaris
+381,Bifidobacterium animalis,552531,periphery,Bifidobacterium animalis,Bifidobacterium animalis subsp. lactis BB-12,Bifidobacterium animalis
+382,Anaerotruncus colihominis,445972,core,Anaerotruncus colihominis,Anaerotruncus colihominis DSM17241,Anaerotruncus colihominis
+383,Frankia symbiont,656024,periphery,Frankia symbiont,Frankia symbiont of Datisca glomerata,Frankia symbiont
+384,Pyrobaculum calidifontis,410359,periphery,Pyrobaculum calidifontis,Pyrobaculum calidifontis JCM 11548,Pyrobaculum calidifontis
+386,Bacillus anthracis,198094,periphery,Bacillus anthracis Ames,Bacillus anthracis str. Ames,Bacillus anthracis
+386,Bacillus anthracis,260799,periphery,Bacillus anthracis Sterne,Bacillus anthracis str. Sterne,Bacillus anthracis
+390,Bacteroides eggerthii,483216,core,Bacteroides eggerthii,Bacteroides eggerthii DSM20697,Bacteroides eggerthii
+391,Aeromicrobium marinum,585531,core,Aeromicrobium marinum,Aeromicrobium marinum DSM15272,Aeromicrobium marinum
+392,Bacteroides ovatus,411476,periphery,Bacteroides ovatus,Bacteroides ovatus ATCC8483,Bacteroides ovatus
+393,Pseudomonas mendocina,399739,periphery,Pseudomonas mendocina ymp,Pseudomonas mendocina ymp,Pseudomonas mendocina
+393,Pseudomonas mendocina,1001585,core,Pseudomonas mendocina NK01,Pseudomonas mendocina NK-01,Pseudomonas mendocina
+393,Pseudomonas mendocina,1390370,periphery,Pseudomonas mendocina EGDAQ5,Pseudomonas mendocina EGD-AQ5,Pseudomonas mendocina
+394,Methanosphaerula palustris,521011,core,Methanosphaerula palustris,Methanosphaerula palustris E1-9c,Methanosphaerula palustris
+396,Ruminococcus flavefaciens,641112,core,Ruminococcus flavefaciens FD1,Ruminococcus flavefaciens FD-1,Ruminococcus flavefaciens
+396,Ruminococcus flavefaciens,1341157,periphery,Ruminococcus flavefaciens 007c,Ruminococcus flavefaciens 007c,Ruminococcus flavefaciens
+396,Ruminococcus flavefaciens,1384066,periphery,Ruminococcus flavefaciens AE3010,Ruminococcus flavefaciens AE3010,Ruminococcus flavefaciens
+396,Ruminococcus flavefaciens,1410670,periphery,Ruminococcus flavefaciens MA2007,Ruminococcus flavefaciens MA2007,Ruminococcus flavefaciens
+398,Marvinbryantia formatexigens,478749,core,Marvinbryantia formatexigens,Marvinbryantia formatexigens DSM14469,Marvinbryantia formatexigens
+399,Bacteroides dorei,357276,core,Bacteroides dorei,Bacteroides dorei,Bacteroides dorei
+400,Lactobacillus reuteri,349123,periphery,Lactobacillus reuteri 10023,Lactobacillus reuteri 100-23,Lactobacillus reuteri
+400,Lactobacillus reuteri,557436,core,Lactobacillus reuteri DSM20016,Lactobacillus reuteri DSM20016,Lactobacillus reuteri
+402,Holdemania filiformis,545696,core,Holdemania filiformis,Holdemania filiformis DSM12042,Holdemania filiformis
+403,Peptoniphilus harei,908338,core,Peptoniphilus harei,Peptoniphilus harei ACS-146-V-Sch2b,Peptoniphilus harei
+404,Pelobacter propionicus,338966,periphery,Pelobacter propionicus,Pelobacter propionicus DSM2379,Pelobacter propionicus
+405,Mitsuokella multacida,500635,core,Mitsuokella multacida,Mitsuokella multacida DSM20544,Mitsuokella multacida
+406,Sulfurimonas denitrificans,326298,core,Sulfurimonas denitrificans,Sulfurimonas denitrificans DSM1251,Sulfurimonas denitrificans
+407,Clostridium sticklandii,1511,periphery,Clostridium sticklandii,[Clostridium] sticklandii,Clostridium sticklandii
+409,Mycoplasma crocodyli,512564,periphery,Mycoplasma crocodyli,Mycoplasma crocodyli MP145,Mycoplasma crocodyli
+410,Bifidobacterium adolescentis,1680,core,Bifidobacterium adolescentis,Bifidobacterium adolescentis,Bifidobacterium adolescentis
+411,Nitrosopumilus maritimus,436308,core,Nitrosopumilus maritimus,Nitrosopumilus maritimus SCM1,Nitrosopumilus maritimus
+412,Bacillus clausii,66692,periphery,Bacillus clausii,Bacillus clausii KSM-K16,Bacillus clausii
+413,Vibrio vulnificus,672,core,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus
+414,Stenotrophomonas maltophilia,391008,core,Stenotrophomonas maltophilia R5513,Stenotrophomonas maltophilia R551-3,Stenotrophomonas maltophilia
+414,Stenotrophomonas maltophilia,522373,core,Stenotrophomonas maltophilia K279a,Stenotrophomonas maltophilia K279a,Stenotrophomonas maltophilia
+414,Stenotrophomonas maltophilia,1118235,periphery,Stenotrophomonas maltophilia PML168,Stenotrophomonas maltophilia PML168,Stenotrophomonas maltophilia
+414,Stenotrophomonas maltophilia,1429851,periphery,Stenotrophomonas maltophilia 5BAI2,Stenotrophomonas maltophilia 5BA-I-2,Stenotrophomonas maltophilia
+416,Streptococcus suis,391295,periphery,Streptococcus suis 05ZYH33,Streptococcus suis 05ZYH33,Streptococcus suis
+416,Streptococcus suis,996306,periphery,Streptococcus suis R61,Streptococcus suis R61,Streptococcus suis
+416,Streptococcus suis,1214166,periphery,Streptococcus suis 865192,Streptococcus suis 86-5192,Streptococcus suis
+416,Streptococcus suis,1214184,periphery,Streptococcus suis 22083,Streptococcus suis 22083,Streptococcus suis
+416,Streptococcus suis,1214217,periphery,Streptococcus suis YS72,Streptococcus suis YS72,Streptococcus suis
+416,Streptococcus suis,1321372,periphery,Streptococcus suis EA183292,Streptococcus suis EA1832.92,Streptococcus suis
+417,Ruminococcus gnavus,411470,periphery,Ruminococcus gnavus,Ruminococcus gnavus ATCC29149,Ruminococcus gnavus
+418,Sulfolobus solfataricus,273057,core,Sulfolobus solfataricus,Sulfolobus solfataricus P2,Sulfolobus solfataricus
+419,Streptococcus parasanguinis,888048,periphery,Streptococcus parasanguinis ATCC903,Streptococcus parasanguinis ATCC903,Streptococcus parasanguinis
+419,Streptococcus parasanguinis,1114965,periphery,Streptococcus parasanguinis FW213,Streptococcus parasanguinis FW213,Streptococcus parasanguinis
+420,Thermococcus sibiricus,604354,periphery,Thermococcus sibiricus,Thermococcus sibiricus MM 739,Thermococcus sibiricus
+421,Desulfotomaculum reducens,349161,periphery,Desulfotomaculum reducens,Desulfotomaculum reducens MI-1,Desulfotomaculum reducens
+423,Deinococcus radiodurans,243230,core,Deinococcus radiodurans,Deinococcus radiodurans R1,Deinococcus radiodurans
+425,Chromobacterium violaceum,243365,core,Chromobacterium violaceum,Chromobacterium violaceum ATCC12472,Chromobacterium violaceum
+426,Actinobacillus succinogenes,339671,periphery,Actinobacillus succinogenes,Actinobacillus succinogenes 130Z,Actinobacillus succinogenes
+427,Bacteroides xylanisolvens,657309,periphery,Bacteroides xylanisolvens,Bacteroides xylanisolvens XB1A,Bacteroides xylanisolvens
+428,Streptococcus infantarius,1069533,periphery,Streptococcus infantarius,Streptococcus infantarius subsp. infantarius CJ18,Streptococcus infantarius
+430,Actinomyces odontolyticus,411466,periphery,Actinomyces odontolyticus,Actinomyces odontolyticus ATCC17982,Actinomyces odontolyticus
+432,Baumannia cicadellinicola,186490,core,Baumannia cicadellinicola,Candidatus Baumannia cicadellinicola,Baumannia cicadellinicola
+433,Denitrovibrio acetiphilus,522772,core,Denitrovibrio acetiphilus,Denitrovibrio acetiphilus DSM12809,Denitrovibrio acetiphilus
+434,Bifidobacterium dentium,401473,periphery,Bifidobacterium dentium,Bifidobacterium dentium Bd1,Bifidobacterium dentium
+435,Pyramidobacter piscolens,352165,core,Pyramidobacter piscolens,Pyramidobacter piscolens W5455,Pyramidobacter piscolens
+440,Streptococcus pyogenes,1314,core,Streptococcus pyogenes,Streptococcus pyogenes,Streptococcus pyogenes
+441,Cellulomonas flavigena,446466,periphery,Cellulomonas flavigena,Cellulomonas flavigena DSM20109,Cellulomonas flavigena
+442,Pyrococcus horikoshii,70601,periphery,Pyrococcus horikoshii,Pyrococcus horikoshii OT3,Pyrococcus horikoshii
+443,Lactobacillus casei,543734,core,Lactobacillus casei BL23,Lactobacillus casei BL23,Lactobacillus casei
+443,Lactobacillus casei,1423732,periphery,Lactobacillus casei DSM20011,Lactobacillus casei DSM20011,Lactobacillus casei
+444,Corynebacterium glutamicum,196627,periphery,Corynebacterium glutamicum,Corynebacterium glutamicum ATCC13032,Corynebacterium glutamicum
+445,Lactobacillus delbrueckii,353496,periphery,Lactobacillus delbrueckii 2038,Lactobacillus delbrueckii subsp. bulgaricus 2038,Lactobacillus delbrueckii
+445,Lactobacillus delbrueckii,390333,periphery,Lactobacillus delbrueckii ATCC11842,Lactobacillus delbrueckii subsp. bulgaricus ATCC11842,Lactobacillus delbrueckii
+446,Sphingobium japonicum,452662,periphery,Sphingobium japonicum UT26S,Sphingobium japonicum UT26S,Sphingobium japonicum
+449,Selenomonas sputigena,546271,periphery,Selenomonas sputigena,Selenomonas sputigena ATCC35185,Selenomonas sputigena
+450,Mycoplasma gallisepticum,708616,periphery,Mycoplasma gallisepticum F,Mycoplasma gallisepticum str. F,Mycoplasma gallisepticum
+450,Mycoplasma gallisepticum,1006581,periphery,Mycoplasma gallisepticum S6,Mycoplasma gallisepticum S6,Mycoplasma gallisepticum
+452,Salmonella enterica,90371,core,Salmonella enterica Typhimurium,Salmonella enterica subsp. enterica serovar Typhimurium,Salmonella enterica
+452,Salmonella enterica,220341,core,Salmonella enterica CT18,Salmonella enterica subsp. enterica serovar Typhi str. CT18,Salmonella enterica
+453,Bacteroides salanitronis,667015,periphery,Bacteroides salanitronis,Bacteroides salanitronis DSM18170,Bacteroides salanitronis
+454,Rhodothermus marinus,518766,core,Rhodothermus marinus,Rhodothermus marinus DSM4252,Rhodothermus marinus
+455,Desulfotomaculum acetoxidans,485916,periphery,Desulfotomaculum acetoxidans,Desulfotomaculum acetoxidans DSM771,Desulfotomaculum acetoxidans
+456,Desulfotomaculum nigrificans,696369,core,Desulfotomaculum nigrificans,Desulfotomaculum nigrificans DSM574,Desulfotomaculum nigrificans
+457,Desulfarculus baarsii,644282,core,Desulfarculus baarsii,Desulfarculus baarsii DSM2075,Desulfarculus baarsii
+458,Methylobacterium populi,441620,periphery,Methylobacterium populi,Methylobacterium populi BJ001,Methylobacterium populi
+459,Mycobacterium tuberculosis,83332,core,Mycobacterium tuberculosis H37Rv,Mycobacterium tuberculosis H37Rv,Mycobacterium tuberculosis
+459,Mycobacterium tuberculosis,419947,periphery,Mycobacterium tuberculosis H37Ra,Mycobacterium tuberculosis H37Ra,Mycobacterium tuberculosis
+460,Streptococcus mutans,210007,periphery,Streptococcus mutans UA159,Streptococcus mutans UA159,Streptococcus mutans
+460,Streptococcus mutans,1198676,periphery,Streptococcus mutans GS5,Streptococcus mutans GS-5,Streptococcus mutans
+461,Pseudomonas fluorescens,205922,periphery,Pseudomonas fluorescens Pf01,Pseudomonas fluorescens Pf0-1,Pseudomonas fluorescens
+461,Pseudomonas fluorescens,216595,periphery,Pseudomonas fluorescens SBW25,Pseudomonas fluorescens SBW25,Pseudomonas fluorescens
+461,Pseudomonas fluorescens,690597,periphery,Pseudomonas fluorescens NZ007,Pseudomonas fluorescens NZ007,Pseudomonas fluorescens
+461,Pseudomonas fluorescens,1038922,periphery,Pseudomonas fluorescens Q287,Pseudomonas fluorescens Q2-87,Pseudomonas fluorescens
+461,Pseudomonas fluorescens,1042209,periphery,Pseudomonas fluorescens HK44,Pseudomonas fluorescens HK44,Pseudomonas fluorescens
+461,Pseudomonas fluorescens,1114970,periphery,Pseudomonas fluorescens F113,Pseudomonas fluorescens F113,Pseudomonas fluorescens
+461,Pseudomonas fluorescens,1221522,periphery,Pseudomonas fluorescens NCIMB11764,Pseudomonas fluorescens NCIMB 11764,Pseudomonas fluorescens
+462,Acinetobacter calcoaceticus,871585,periphery,Acinetobacter calcoaceticus,Acinetobacter calcoaceticus PHEA-2,Acinetobacter calcoaceticus
+463,Clostridium leptum,428125,core,Clostridium leptum,[Clostridium] leptum DSM753,Clostridium leptum
+465,Leptotrichia hofstadii,634994,core,Leptotrichia hofstadii,Leptotrichia hofstadii F0254,Leptotrichia hofstadii
+466,Pyrococcus furiosus,186497,periphery,Pyrococcus furiosus,Pyrococcus furiosus DSM3638,Pyrococcus furiosus
+469,Streptococcus dysgalactiae,663952,periphery,Streptococcus dysgalactiae ATCC27957,Streptococcus dysgalactiae subsp. dysgalactiae ATCC27957,Streptococcus dysgalactiae
+469,Streptococcus dysgalactiae,759913,core,Streptococcus dysgalactiae equisimilis,Streptococcus dysgalactiae subsp. equisimilis AC-2713,Streptococcus dysgalactiae
+470,Brucella melitensis,224914,core,Brucella melitensis,Brucella melitensis bv. 1 str. 16M,Brucella melitensis
+471,Methylotenera mobilis,583345,periphery,Methylotenera mobilis JLW8,Methylotenera mobilis JLW8,Methylotenera mobilis
+471,Methylotenera mobilis,1132855,periphery,Methylotenera mobilis 13,Methylotenera mobilis 13,Methylotenera mobilis
+472,Desulfovibrio piger,411464,periphery,Desulfovibrio piger,Desulfovibrio piger ATCC29098,Desulfovibrio piger
+475,Nitrosococcus halophilus,472759,periphery,Nitrosococcus halophilus,Nitrosococcus halophilus Nc 4,Nitrosococcus halophilus
+476,Methanocorpusculum labreanum,410358,periphery,Methanocorpusculum labreanum,Methanocorpusculum labreanum Z,Methanocorpusculum labreanum
+477,Lactobacillus acidophilus,272621,periphery,Lactobacillus acidophilus NCFM,Lactobacillus acidophilus NCFM,Lactobacillus acidophilus
+477,Lactobacillus acidophilus,891391,core,Lactobacillus acidophilus 30SC,Lactobacillus acidophilus 30SC,Lactobacillus acidophilus
+478,Mesorhizobium ciceri,765698,periphery,Mesorhizobium ciceri biovar,Mesorhizobium ciceri biovar biserrulae WSM1271,Mesorhizobium ciceri
+479,Pelotomaculum thermopropionicum,370438,core,Pelotomaculum thermopropionicum,Pelotomaculum thermopropionicum SI,Pelotomaculum thermopropionicum
+480,Burkholderia cenocepacia,216591,core,Burkholderia cenocepacia,Burkholderia cenocepacia J2315,Burkholderia cenocepacia
+481,Pseudomonas entomophila,384676,periphery,Pseudomonas entomophila,Pseudomonas entomophila L48,Pseudomonas entomophila
+482,Enterococcus italicus,888064,periphery,Enterococcus italicus,Enterococcus italicus DSM15952,Enterococcus italicus
+485,Clostridium scindens,411468,periphery,Clostridium scindens,[Clostridium] scindens ATCC35704,Clostridium scindens
+486,Aggregatibacter actinomycetemcomitans,272556,periphery,Aggregatibacter actinomycetemcomitans HK1651,Aggregatibacter actinomycetemcomitans HK1651,Aggregatibacter actinomycetemcomitans
+486,Aggregatibacter actinomycetemcomitans,694569,periphery,Aggregatibacter actinomycetemcomitans D7S1,Aggregatibacter actinomycetemcomitans D7S-1,Aggregatibacter actinomycetemcomitans
+486,Aggregatibacter actinomycetemcomitans,1089447,periphery,Aggregatibacter actinomycetemcomitans RhAA1,Aggregatibacter actinomycetemcomitans RhAA1,Aggregatibacter actinomycetemcomitans
+488,Bacillus atrophaeus,720555,periphery,Bacillus atrophaeus,Bacillus atrophaeus 1942,Bacillus atrophaeus
+489,Bacillus subtilis,224308,core,Bacillus subtilis,Bacillus subtilis subsp. subtilis str. 168,Bacillus subtilis
+490,Eubacterium saphenum,592031,core,Eubacterium saphenum,Eubacterium saphenum ATCC49989,Eubacterium saphenum
+491,Mycobacterium avium,44454,core,Mycobacterium avium avium,Mycobacterium avium subsp. avium,Mycobacterium avium
+491,Mycobacterium avium,262316,periphery,Mycobacterium avium paratuberculosis,Mycobacterium avium subsp. paratuberculosis K-10,Mycobacterium avium
+492,Propionibacterium acnes,267747,core,Propionibacterium acnes KPA171202,Propionibacterium acnes KPA171202,Propionibacterium acnes
+492,Propionibacterium acnes,765123,periphery,Propionibacterium acnes HL037PA2,Propionibacterium [acnes] HL037PA2,Propionibacterium acnes
+492,Propionibacterium acnes,1051006,core,Propionibacterium acnes SK182BJCVI,Propionibacterium acnes SK182B-JCVI,Propionibacterium acnes
+493,Bacillus cellulosilyticus,649639,periphery,Bacillus cellulosilyticus,Bacillus cellulosilyticus DSM2522,Bacillus cellulosilyticus
+494,Geobacter bemidjiensis,404380,periphery,Geobacter bemidjiensis,Geobacter bemidjiensis Bem,Geobacter bemidjiensis
+495,Bacillus halodurans,272558,periphery,Bacillus halodurans,Bacillus halodurans C-125,Bacillus halodurans
+498,Methanobrevibacter ruminantium,634498,core,Methanobrevibacter ruminantium,Methanobrevibacter ruminantium M1,Methanobrevibacter ruminantium
+499,Clostridium acetobutylicum,272562,core,Clostridium acetobutylicum,Clostridium acetobutylicum ATCC824,Clostridium acetobutylicum
+500,Paenibacillus polymyxa,349520,periphery,Paenibacillus polymyxa E681,Paenibacillus polymyxa E681,Paenibacillus polymyxa
+500,Paenibacillus polymyxa,886882,periphery,Paenibacillus polymyxa SC2,Paenibacillus polymyxa SC2,Paenibacillus polymyxa
+500,Paenibacillus polymyxa,1052684,periphery,Paenibacillus polymyxa M1,Paenibacillus polymyxa M1,Paenibacillus polymyxa
+502,Clostridium kluyveri,431943,periphery,Clostridium kluyveri,Clostridium kluyveri DSM555,Clostridium kluyveri
+505,Faecalibacterium prausnitzii,411483,core,Faecalibacterium prausnitzii A2165,Faecalibacterium prausnitzii A2-165,Faecalibacterium prausnitzii
+505,Faecalibacterium prausnitzii,657322,periphery,Faecalibacterium prausnitzii SL33,Faecalibacterium prausnitzii SL3/3,Faecalibacterium prausnitzii
+505,Faecalibacterium prausnitzii,718252,core,Faecalibacterium prausnitzii L26,Faecalibacterium prausnitzii L2-6,Faecalibacterium prausnitzii
+505,Faecalibacterium prausnitzii,748224,periphery,Faecalibacterium prausnitzii KLE1255,Faecalibacterium cf. prausnitzii KLE1255,Faecalibacterium prausnitzii
+506,Lactobacillus amylolyticus,585524,periphery,Lactobacillus amylolyticus,Lactobacillus amylolyticus DSM11664,Lactobacillus amylolyticus
+507,Mycoplasma conjunctivae,45361,periphery,Mycoplasma conjunctivae,Mycoplasma conjunctivae,Mycoplasma conjunctivae
+510,Clostridium methylpentosum,537013,periphery,Clostridium methylpentosum,[Clostridium] methylpentosum DSM5476,Clostridium methylpentosum
+511,Starkeya novella,639283,periphery,Starkeya novella,Starkeya novella DSM506,Starkeya novella
+513,Fusobacterium mortiferum,469616,core,Fusobacterium mortiferum,Fusobacterium mortiferum ATCC9817,Fusobacterium mortiferum
+514,Lactobacillus coleohominis,575594,periphery,Lactobacillus coleohominis,Lactobacillus coleohominis 101-4-CHN,Lactobacillus coleohominis
+515,Metallosphaera sedula,399549,periphery,Metallosphaera sedula,Metallosphaera sedula DSM5348,Metallosphaera sedula
+516,Acetohalobium arabaticum,574087,core,Acetohalobium arabaticum,Acetohalobium arabaticum DSM5501,Acetohalobium arabaticum
+517,Nitrosospira multiformis,323848,core,Nitrosospira multiformis,Nitrosospira multiformis ATCC25196,Nitrosospira multiformis
+518,Mycoplasma haemofelis,859194,periphery,Mycoplasma haemofelis,Mycoplasma haemofelis Ohio2,Mycoplasma haemofelis
+520,Burkholderia vietnamiensis,269482,periphery,Burkholderia vietnamiensis,Burkholderia vietnamiensis G4,Burkholderia vietnamiensis
+521,Bacillus mycoides,1405,periphery,Bacillus mycoides,Bacillus mycoides,Bacillus mycoides
+522,Syntrophus aciditrophicus,56780,periphery,Syntrophus aciditrophicus,Syntrophus aciditrophicus SB,Syntrophus aciditrophicus
+523,Actinomyces urogenitalis,525246,periphery,Actinomyces urogenitalis DSM15434,Actinomyces urogenitalis DSM15434,Actinomyces urogenitalis
+523,Actinomyces urogenitalis,1284679,core,Actinomyces urogenitalis S6C4,Actinomyces urogenitalis S6-C4,Actinomyces urogenitalis
+524,Lactobacillus crispatus,748671,periphery,Lactobacillus crispatus,Lactobacillus crispatus ST1,Lactobacillus crispatus
+526,Porphyromonas gingivalis,242619,core,Porphyromonas gingivalis W83,Porphyromonas gingivalis W83,Porphyromonas gingivalis
+526,Porphyromonas gingivalis,431947,core,Porphyromonas gingivalis ATCC33277,Porphyromonas gingivalis ATCC33277,Porphyromonas gingivalis
+528,Achromobacter xylosoxidans,762376,core,Achromobacter xylosoxidans A8,Achromobacter xylosoxidans A8,Achromobacter xylosoxidans
+528,Achromobacter xylosoxidans,1216976,periphery,Achromobacter xylosoxidans NBRC15126,Achromobacter xylosoxidans NBRC 15126,Achromobacter xylosoxidans
+530,Odoribacter splanchnicus,709991,core,Odoribacter splanchnicus,Odoribacter splanchnicus DSM20712,Odoribacter splanchnicus
+531,Clostridium beijerinckii,290402,core,Clostridium beijerinckii,Clostridium beijerinckii NCIMB 8052,Clostridium beijerinckii
+534,Veillonella parvula,479436,periphery,Veillonella parvula,Veillonella parvula DSM2008,Veillonella parvula
+535,Lactobacillus antri,525309,periphery,Lactobacillus antri,Lactobacillus antri DSM16041,Lactobacillus antri
+536,Pelobacter carbinolicus,338963,core,Pelobacter carbinolicus,Pelobacter carbinolicus DSM2380,Pelobacter carbinolicus
+537,Haloferax volcanii,309800,periphery,Haloferax volcanii,Haloferax volcanii DS2,Haloferax volcanii
+538,Shigella flexneri,198214,core,Shigella flexneri,Shigella flexneri 2a str. 301,Shigella flexneri
+540,Clostridium cellulovorans,573061,periphery,Clostridium cellulovorans,Clostridium cellulovorans 743B,Clostridium cellulovorans
+542,Streptococcus anginosus,706437,periphery,Streptococcus anginosus F0211,Streptococcus anginosus F0211,Streptococcus anginosus
+542,Streptococcus anginosus,862970,periphery,Streptococcus anginosus C1051,Streptococcus anginosus C1051,Streptococcus anginosus
+542,Streptococcus anginosus,862971,core,Streptococcus anginosus C238,Streptococcus anginosus C238,Streptococcus anginosus
+542,Streptococcus anginosus,1000570,periphery,Streptococcus anginosus SK52,Streptococcus anginosus SK52,Streptococcus anginosus
+542,Streptococcus anginosus,1403946,periphery,Streptococcus anginosus DORA7,Streptococcus anginosus DORA_7,Streptococcus anginosus
+543,Ruminococcus obeum,411459,periphery,Ruminococcus obeum ATCC29174,Ruminococcus obeum ATCC29174,Ruminococcus obeum
+544,Methanoculleus marisnigri,368407,periphery,Methanoculleus marisnigri,Methanoculleus marisnigri JR1,Methanoculleus marisnigri
+545,Acidothermus cellulolyticus,351607,core,Acidothermus cellulolyticus,Acidothermus cellulolyticus 11B,Acidothermus cellulolyticus
+546,Subdoligranulum variabile,411471,core,Subdoligranulum variabile,Subdoligranulum variabile DSM15176,Subdoligranulum variabile
+547,Methanosphaera stadtmanae,339860,core,Methanosphaera stadtmanae,Methanosphaera stadtmanae DSM3091,Methanosphaera stadtmanae
+548,Jonesia denitrificans,471856,core,Jonesia denitrificans,Jonesia denitrificans DSM20603,Jonesia denitrificans
+549,Blautia hansenii,537007,periphery,Blautia hansenii,Blautia hansenii DSM20583,Blautia hansenii
+550,Acinetobacter radioresistens,575589,periphery,Acinetobacter radioresistens,Acinetobacter radioresistens SH164,Acinetobacter radioresistens
+553,Picrophilus torridus,263820,core,Picrophilus torridus,Picrophilus torridus DSM9790,Picrophilus torridus
+554,Streptococcus downei,904293,periphery,Streptococcus downei,Streptococcus downei F0415,Streptococcus downei
+555,Clostridium bolteae,411902,periphery,Clostridium bolteae,[Clostridium] bolteae ATCC BAA-613,Clostridium bolteae
+556,Comamonas testosteroni,399795,core,Comamonas testosteroni KF1,Comamonas testosteroni KF-1,Comamonas testosteroni
+556,Comamonas testosteroni,688245,core,Comamonas testosteroni CNB2,Comamonas testosteroni CNB-2,Comamonas testosteroni
+557,Burkholderia ambifaria,339670,periphery,Burkholderia ambifaria,Burkholderia ambifaria AMMD,Burkholderia ambifaria
+560,Lactobacillus rhamnosus,568703,core,Lactobacillus rhamnosus,Lactobacillus rhamnosus GG,Lactobacillus rhamnosus
+561,Pseudomonas stutzeri,32042,periphery,Pseudomonas stutzeri ATCC14405,Pseudomonas stutzeri ATCC14405,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,379731,core,Pseudomonas stutzeri A1501,Pseudomonas stutzeri A1501,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,477228,periphery,Pseudomonas stutzeri TS44,Pseudomonas stutzeri TS44,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,644801,periphery,Pseudomonas stutzeri RCH2,Pseudomonas stutzeri RCH2,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,1109445,periphery,Pseudomonas stutzeri SDMLAC,Pseudomonas stutzeri SDM-LAC,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,1123519,periphery,Pseudomonas stutzeri DSM10701,Pseudomonas stutzeri DSM10701,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,1196835,periphery,Pseudomonas stutzeri CCUG 29243,Pseudomonas stutzeri CCUG29243,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,1212548,periphery,Pseudomonas stutzeri NF13,Pseudomonas stutzeri NF13,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,1218352,periphery,Pseudomonas stutzeri KOS6,Pseudomonas stutzeri KOS6,Pseudomonas stutzeri
+561,Pseudomonas stutzeri,1333856,periphery,Pseudomonas stutzeri MF28,Pseudomonas stutzeri MF28,Pseudomonas stutzeri
+562,Methanobrevibacter smithii,420247,periphery,Methanobrevibacter smithii ATCC35061,Methanobrevibacter smithii ATCC35061,Methanobrevibacter smithii
+563,Eubacterium ventriosum,411463,core,Eubacterium ventriosum,Eubacterium ventriosum ATCC27560,Eubacterium ventriosum
+564,Syntrophobotulus glycolicus,645991,core,Syntrophobotulus glycolicus,Syntrophobotulus glycolicus DSM8271,Syntrophobotulus glycolicus
+566,Clostridium hylemonae,553973,periphery,Clostridium hylemonae,[Clostridium] hylemonae DSM15053,Clostridium hylemonae
+567,Achromobacter piechaudii,742159,periphery,Achromobacter piechaudii ATCC43553,Achromobacter piechaudii ATCC43553,Achromobacter piechaudii
+567,Achromobacter piechaudii,1156919,periphery,Achromobacter piechaudii HLE,Achromobacter piechaudii HLE,Achromobacter piechaudii
+568,Burkholderia phymatum,391038,periphery,Burkholderia phymatum,Burkholderia phymatum STM815,Burkholderia phymatum
+569,Lactobacillus ultunensis,525365,periphery,Lactobacillus ultunensis,Lactobacillus ultunensis DSM16047,Lactobacillus ultunensis
