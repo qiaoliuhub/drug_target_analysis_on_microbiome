@@ -1,4 +1,4 @@
-id,name,## taxon_id,STRING_type,STRING_name_compact,official_name_NCBI,join_name
+id,name,taxon_id,STRING_type,STRING_name_compact,official_name_NCBI,join_name
 0,Spirochaeta thermophila,665571,periphery,Spirochaeta thermophila,Spirochaeta thermophila DSM6192,Spirochaeta thermophila
 1,Nostoc punctiforme,63737,core,Nostoc punctiforme,Nostoc punctiforme PCC73102,Nostoc punctiforme
 4,Rhizobium leguminosarum,216596,core,Rhizobium leguminosarum 3841,Rhizobium leguminosarum bv. viciae 3841,Rhizobium leguminosarum
