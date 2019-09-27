@@ -22,7 +22,7 @@ def process_file(old_file):
     pattern = 'DB\d+'
 
     drugs_list = []
-
+    
     with open(src) as src_file:
         for line in src_file:
             result = re.findall(pattern, line)
@@ -33,7 +33,7 @@ def process_file(old_file):
 
     target = os.path.join(folder,"drugs_2",microbe)
 
-    if os.path.exists(target):
+    if os.path.exists(target):	
         with open(target, 'a+') as target_file:
             target_file.write(",\n")
 
@@ -41,14 +41,14 @@ def process_file(old_file):
         target_file.write(",\n".join(list(set(drugs_list))))
 
 if __name__ == '__main__':
-
+    
     old_files = []
     for root, dirs, files in os.walk(sys.argv[1]):
         for old_file in files:
             if old_file.endswith(".fsa"):
                 cur_file = os.path.join(root, old_file)
                 old_files.append(cur_file)
-
+                
     print("get all files")
     print(str(old_files))
     for old_file in old_files:
