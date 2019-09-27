@@ -10,3 +10,5 @@ path_inhi_bene_acti = "Data/result/path_inhi_bene_acti.csv"
 path_inhi_bene_inhi = "Data/result/path_inhi_bene_inhi.csv"
 
 path_affe_bene_affe = "Data/result/path_affe_bene_affe.csv"
+
+logfile = "logfile"
