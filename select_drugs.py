@@ -1,4 +1,4 @@
-#! /usr/env/bin python
+#! /usr/bin/env python
 import config
 import pandas as pd
 import logging

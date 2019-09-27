@@ -1,7 +1,7 @@
 beneficial_species_file = "Data/ori_beneficial.csv"
 pathogen_species_file = "Data/ori_pathogen.csv"
-activation = "Data/sample_activation.csv"
-inhibition = "Data/sample_inhibition.csv"
+activation = "/data/saturn/a/qliu/activation.csv"
+inhibition = "/data/saturn/a/qliu/inhibition.csv"
 specie_id_map = "Data/species_id_map.csv"
 
 path_acti_bene_acti = "Data/result/path_acti_bene_acti.csv"
