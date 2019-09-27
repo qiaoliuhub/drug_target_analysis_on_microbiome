@@ -1,6 +1,15 @@
 #! /usr/bin/env python
 import config
 import pandas as pd
+import logging
+
+# Setting up log file
+formatter = logging.Formatter(fmt='%(asctime)s %(levelname)s %(name)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S')
+fh = logging.FileHandler(config.logfile, mode='a')
+fh.setFormatter(fmt=formatter)
+logger = logging.getLogger("Select Drugs")
+logger.addHandler(fh)
+logger.setLevel(logging.DEBUG)
 
 ### drugs inhibit "bad"
 ### drugs inhibit "good"
@@ -10,8 +19,11 @@ if __name__ == "__main__":
 
     beneficial_species = pd.read_csv(config.beneficial_species_file)
     pathogen_species = pd.read_csv(config.pathogen_species_file)
+    logger.debug("Successfully read in species")
     activation = pd.read_csv(config.activation, header = None)
+    logger.debug("Successfully read in activation")
     inhibition = pd.read_csv(config.inhibition, header = None)
+    logger.debug("Successfully read in inhibition")
     specie_name_id = pd.read_csv(config.specie_id_map)
 
     pathogen_species_id = set(pathogen_species['id'])
@@ -33,5 +45,6 @@ if __name__ == "__main__":
             bene_chem = set(x for x in (set(bene[0]) | set(bene[1])) if x.startswith('CID'))
             bene_affe |= bene_chem
             pd.DataFrame({'CIDs': list(path_chem - bene_chem)}).to_csv(next(output_file), index = False)
+            logger.debug("Successfully write out files")
 
     pd.DataFrame({'CIDs': list(path_affe-bene_affe)}).to_csv(config.path_affe_bene_affe, index = False)
