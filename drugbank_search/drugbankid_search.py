@@ -60,7 +60,7 @@ def dbID2infos(root, dbID):
 
 def pubchemid2infos(root, pubchemid):
     
-    drug_info = {'DrugBank ID': pubchemid}
+    drug_info = {'PubChem Compound ID': pubchemid}
     ns = {'db_ns': 'http://www.drugbank.ca'}
     print(pubchemid)
     for drug in root.findall(".//*[db_ns:resource='PubChem Compound'][db_ns:identifier='" + pubchemid + "']/../..", ns):
@@ -75,7 +75,7 @@ def pubchemid2infos(root, pubchemid):
         drug_info['Formula'] = dbID2property('Molecular Formula', drug)
         drug_info['KEGG Compound ID'] = dbID2externalid('KEGG Compound', drug)
         drug_info['KEGG Drug ID'] = dbID2externalid('KEGG Drug', drug)
-        drug_info['PubChem Compound ID'] = dbID2externalid('PubChem Compound', drug)
+        drug_info['DrugBank ID'] = drug.find("./db_ns:drugbank-id[@primary='true']", ns)
         drug_info['PubChem Substance ID'] = dbID2externalid('PubChem Substance', drug)
         drug_info['ChEBI ID'] = dbID2externalid('ChEBI', drug)
         drug_info['ChEMBL ID'] = dbID2externalid('ChEMBL', drug)

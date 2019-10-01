@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 import sys
 import pandas as pd
 import xml.etree.ElementTree as ET
@@ -16,7 +18,7 @@ if __name__ == "__main__":
     for i, drug in enumerate(drugs):
         drugs_df.loc[i] = pubchemid2infos(root, drug)
 
-    unfound = drugs_df[drugs_df['Name'].isnull()]['DrugBank ID']
+    unfound = drugs_df[drugs_df['Name'].isnull()]['PubChem Compound ID']
     with open(sys.argv[4], 'w+') as unfound_file:
         unfound_file.write(','.join(list(unfound)))
     drugs_df.to_csv(sys.argv[3], index=False)
