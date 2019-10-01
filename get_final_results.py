@@ -5,8 +5,8 @@ import pandas as pd
 import os
 import sys
 
-beneficial_path = './beneficial_species.csv'
-pathogen_path = './pathogen_species.csv'
+beneficial_path = 'Data/beneficial_species.csv'
+pathogen_path = 'Data/pathogen_species.csv'
 
 beneficial = pd.read_csv(beneficial_path)
 pathogen = pd.read_csv(pathogen_path)
