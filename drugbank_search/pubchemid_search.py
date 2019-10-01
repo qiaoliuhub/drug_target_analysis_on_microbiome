@@ -3,7 +3,7 @@
 import sys
 import pandas as pd
 import xml.etree.ElementTree as ET
-from drugbankid_search import pubchemid2infos
+from drugbank_search.drugbankid_search import pubchemid2infos
 if __name__ == "__main__":
 
     drugs = pd.read_csv(sys.argv[1])
