@@ -1,7 +1,7 @@
 import sys
 import pandas as pd
 import xml.etree.ElementTree as ET
-from drugbankid_search import pubchemid2infos
+from drugbank_search.drugbankid_search import pubchemid2infos
 if __name__ == "__main__":
 
     with open(sys.argv[1]) as drugs_file:
