@@ -16,7 +16,7 @@ if __name__ == "__main__":
     cols = 'DrugBank ID,Name,CAS Number,Drug Groups,InChIKey,InChI,SMILES,Formula,KEGG Compound ID,KEGG Drug ID,PubChem Compound ID,PubChem Substance ID,ChEBI ID,ChEMBL ID,HET ID,ChemSpider ID,BindingDB ID'
     drugs_df = pd.DataFrame(columns=cols.split(","))
     for i, drug in enumerate(drugs):
-        drugs_df.loc[i] = pubchemid2infos(root, drug)
+        drugs_df.loc[i] = pubchemid2infos(root, str(int(drug)))
 
     unfound = drugs_df[drugs_df['Name'].isnull()]['PubChem Compound ID']
     with open(sys.argv[4], 'w+') as unfound_file:
