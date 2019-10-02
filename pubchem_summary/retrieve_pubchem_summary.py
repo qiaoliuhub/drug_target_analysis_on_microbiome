@@ -23,8 +23,6 @@ def xml2df(root):
     df = pd.DataFrame(columns=cols.split(","))
     for i, drug in enumerate(root):
 
-        print(i)
-
         info = {}
         id = drug.find("./*[@Name='CID']")
         info['ID'] = id.text if id is not None else None
@@ -43,6 +41,7 @@ if __name__ == "__main__":
     argparser = argparse.ArgumentParser()
     argparser.add_argument('cid_ls_df', help = 'the data frame saving cids to be searched')
     argparser.add_argument('result_df', help = 'directory to save final results')
+    argparser.add_argument('xml_file', help = "directory to save requested xml results from pubchem server")
     args = argparser.parse_args()
 
     cids = pd.read_csv(args.cid_ls_df)
@@ -58,6 +57,7 @@ if __name__ == "__main__":
         print("Fail to retrieve messages, caused by {}".format(str(e)))
         raise
 
+    print("successfully get list key result")
     # Construct esummary retrieve url
     lsit_key_result = json.loads(response.read())
     esummary = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi" \
@@ -66,13 +66,17 @@ if __name__ == "__main__":
 
     try:
         time.sleep(5)
-        response2 = urlopen(esummary)
+        summary_response = urlopen(esummary)
     except HTTPError as e:
         print("Fail to retrieve messages, caused by {}".format(str(e)))
         raise
 
+    print("successfully get summary result")
     # Parsing the downloaded esummary xml string
-    root = ET.fromstring(response2.read().decode('utf-8'))
+    xml_result = summary_response.read().decode('utf-8')
+    root = ET.fromstring(xml_result)
+    with open(args.xml_file, "w+") as xml_file:
+        xml_file.write(xml_result)
     drug_df = xml2df(root)
     drug_df.to_csv(args.result_df)
 

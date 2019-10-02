@@ -85,6 +85,10 @@ def pubchemid2infos(root, pubchemid):
 
     return pd.Series(drug_info)
 
+def get_number_of_drugs(df, col):
+
+    return len(df[~df[col].isnull()])
+
 
 if __name__ == "__main__":
 
