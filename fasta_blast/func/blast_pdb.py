@@ -7,10 +7,40 @@ import pandas as pd
 from fasta_blast.config import blast_pdb_config
 from fasta_blast.utils.dwload_xtract_url import DownloadExtractURL
 from fasta_blast.utils.pseq_analysis import PseqAnalysis
+from apscheduler.schedulers.background import BackgroundScheduler
+from apscheduler.executors.pool import ThreadPoolExecutor
+import time
 
 logging.basicConfig()
 logger = logging.getLogger("Blast_PDB")
 logger.setLevel(logging.DEBUG)
+
+def process_file(file):
+
+    # get fasta sequences from each file, blast against pdb and save to output file in xml format
+    start = datetime.now()
+    dirname, filename = os.path.split(file)
+
+    # Blasted results was saved in the .xml file under blastresult_outputfile_path directory
+    basename = filename[:-len(".fsa")]
+    new_file = basename + ".xml"
+    blastresult_outputfile_path = os.path.join(blast_results_folder, new_file)
+
+    threshold = 0.1 ** blast_pdb_config.threshold
+    PseqAnalysis.blast_against_db(dirname, filename, blastresult_outputfile_path, threshold, blast_pdb_config.db)
+
+    # parse the xml files and analyze them
+    analysis_file = basename + ".analysis"
+    parsedfile_path = os.path.join(analysis_result_folder, analysis_file)
+
+    xml_file_dir, xml_file = os.path.split(blastresult_outputfile_path)
+    aligned_records, total_records, percentage = PseqAnalysis.analyze_write_aligned_total_result(xml_file_dir, xml_file,
+                                                                                                 parsedfile_path)
+    blast_result.append((xml_file, aligned_records, total_records, percentage))
+
+    end = datetime.now()
+    diff = end - start
+    logger.debug("Blasting and analysis takes %s seconds" % diff.seconds)
 
 if __name__ == "__main__":
 
@@ -44,31 +74,26 @@ if __name__ == "__main__":
         logger.debug("Made new folder: analysis")
 
     blast_result = []
-    for file in sorted_files[start: end]:
+    logger.debug("Setting up scheduler")
+    scheduler = BackgroundScheduler(job_defaults={'misfire_grace_time': 1500*60})
+    scheduler.add_executor(ThreadPoolExecutor(10))
+    try:
+        for file in sorted_files[start: end]:
+            scheduler.add_job(process_file, args=[file])
 
-        # get fasta sequences from each file, blast against pdb and save to output file in xml format
-        start = datetime.now()
-        dirname, filename = os.path.split(file)
+        scheduler.start()
 
-        # Blasted results was saved in the .xml file under blastresult_outputfile_path directory
-        basename = filename[:-len(".fsa")]
-        new_file = basename + ".xml"
-        blastresult_outputfile_path = os.path.join(blast_results_folder, new_file)
+        while len(scheduler.get_jobs()):
+            time.sleep(1)
+            continue
 
-        threshold = 0.1 ** blast_pdb_config.threshold
-        PseqAnalysis.blast_against_db(dirname, filename, blastresult_outputfile_path, threshold, blast_pdb_config.db)
+    except:
+        raise
 
-        # parse the xml files and analyze them
-        analysis_file = basename + ".analysis"
-        parsedfile_path = os.path.join(analysis_result_folder, analysis_file)
-
-        xml_file_dir, xml_file = os.path.split(blastresult_outputfile_path)
-        aligned_records, total_records, percentage = PseqAnalysis.analyze_write_aligned_total_result(xml_file_dir, xml_file, parsedfile_path)
-        blast_result.append((xml_file, aligned_records, total_records, percentage))
-
-        end = datetime.now()
-        diff = end - start
-        logger.debug("Blasting and analysis takes %s seconds" % diff.seconds)
+    finally:
+        scheduler.print_jobs()
+        scheduler.shutdown(wait=True)
+        scheduler.print_jobs()
 
     try:
         logger.debug("Writing summary result out")
