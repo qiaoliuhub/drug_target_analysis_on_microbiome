@@ -15,7 +15,7 @@ logging.basicConfig()
 logger = logging.getLogger("Blast_PDB")
 logger.setLevel(logging.DEBUG)
 
-def process_file(file):
+def process_file(file, analysis_result_folder, blast_result, blast_results_folder):
 
     # get fasta sequences from each file, blast against pdb and save to output file in xml format
     start = datetime.now()
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     scheduler.add_executor(ThreadPoolExecutor(10))
     try:
         for file in sorted_files[start: end]:
-            scheduler.add_job(process_file, args=[file])
+            scheduler.add_job(process_file, args=[file, analysis_result_folder, blast_result, blast_results_folder])
 
         scheduler.start()
 
