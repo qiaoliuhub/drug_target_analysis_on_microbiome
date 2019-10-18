@@ -7,7 +7,7 @@ num_of_parts = 1
 part_num = 1
 
 # threshold for e_value (0 < threshold < 6)
-threshold = 60
+threshold = 2
 
 # database name to use (directory path has been configured in environment variable)
 db = "pdb"
@@ -16,7 +16,7 @@ db = "pdb"
 url = ""
 
 # Directory to save output data (data_dir/filename is the unzipped downloaded data directory)
-data_dir = "/home/qliu/blast_pdb"
+data_dir = "/data/saturn/a/qliu/blast_pdb"
 
 # filename (data_dir/filename is the unzipped downloaded data directory)
 filename = "hmp_ref"

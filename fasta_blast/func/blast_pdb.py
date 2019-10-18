@@ -10,6 +10,7 @@ from fasta_blast.utils.pseq_analysis import PseqAnalysis
 from apscheduler.schedulers.background import BackgroundScheduler
 from apscheduler.executors.pool import ThreadPoolExecutor
 import time
+import random
 
 logging.basicConfig()
 logger = logging.getLogger("Blast_PDB")
@@ -75,8 +76,9 @@ if __name__ == "__main__":
 
     blast_result = []
     logger.debug("Setting up scheduler")
-    scheduler = BackgroundScheduler(job_defaults={'misfire_grace_time': 1500*60})
+    scheduler = BackgroundScheduler(job_defaults={'misfire_grace_time': 1500*2400})
     scheduler.add_executor(ThreadPoolExecutor(10))
+    random.shuffle(sorted_files) 
     try:
         for file in sorted_files[start: end]:
             scheduler.add_job(process_file, args=[file, analysis_result_folder, blast_result, blast_results_folder])
