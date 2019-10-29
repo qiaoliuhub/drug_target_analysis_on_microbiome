@@ -1,0 +1,73 @@
+id,name,influence,ref_pubmed
+6,Aeromonas hydrophila,-1,28032485
+9,Staphylococcus lugdunensis,-1,"29022273, 19244465"
+19,Mycobacterium leprae,-1,11791665
+22,Enterococcus casseliflavus,-1,"29396199, 28500123"
+27,Granulibacter bethesdensis,-1,23956436
+36,Clostridium difficile,-1,20697257
+37,Mycoplasma pneumoniae,-1,20616940
+41,Streptococcus pneumoniae,-1,14998500
+54,Prevotella melaninogenica (Bacteroides melaninogenicus),-1,"6142862, 9199448"
+61,Shigella dysenteriae,-1,25110633
+68,Mycoplasma pulmonis,-1,1999495
+71,Enterobacter cloacae,-1,9453621
+74,Bacillus cereus,-1,20375358
+78,Enterococcus faecalis (Streptococcus faecalis),-1,15784592
+84,Mycoplasma arthritidis,-1,2481878
+88,Streptococcus gordonii,-1,"22974507, 28592797, 10671461"
+104,Clostridium perfringens,-1,"23699255, 30082713"
+110,Actinomyces viscosus,-1,7457420
+118,Haemophilus parainfluenzae,-1,73690
+121,Streptococcus australis,-1,21737544
+126,Bacillus licheniformis,-1,10508100
+128,Mycoplasma fermentans,-1,"8399932, 23298636"
+132,Kingella denitrificans,-1,"6511984, 3953636"
+133,Ureaplasma urealyticum,-1,23587772
+138,Streptococcus gallolyticus,-1,"29072555, 27555973, 21247505"
+139,Mycoplasma genitalium,-1,"28979150, 28838074"
+142,Clostridium tetani,-1,"23299659, 29494091"
+157,Ureaplasma parvum,-1,30883747
+165,Proteus mirabilis,-1,29424333
+183,Helicobacter pylori,-1,16847081
+184,Pseudomonas aeruginosa,-1,"15695491, 3009772"
+189,Prevotella copri,-1,"24192039, 6405475"
+193,Clostridium botulinum,-1,"27077311, 1311751"
+198,Bacteroides vulgatus,-1,"12906096, 8563888"
+209,Micrococcus luteus,-1,1862670
+222,Haemophilus influenzae,-1,28220749
+225,Bilophila wadsworthia,-1,"1295759, 29090023"
+229,Shigella sonnei,-1,"28658760, 28846684"
+233,Mycoplasma penetrans,-1,"19651868, 10081687"
+236,Klebsiella pneumoniae,-1,27307579
+245,Ralstonia pickettii,-1,31516793
+255,Campylobacter jejuni,-1,10081669
+260,Moraxella catarrhalis,-1,"11781271, 27413187"
+269,Listeria monocytogenes,-1,1943998
+287,Klebsiella variicola,-1,31259664
+309,Campylobacter gracilis,-1,"25988682, 26062576"
+317,Corynebacterium diphtheriae,-1,"26519837, 29465341"
+326,Fusobacterium nucleatum,-1," 30986689, 22009989, 25576662"
+334,Proteus penneri,-1,22013265
+356,Shigella boydii,-1,27056949
+371,Streptococcus mitis,-1,24750901
+393,Pseudomonas mendocina,-1,"1624580, 27716406"
+416,Streptococcus suis,-1,"1624580, 29575852"
+417,Ruminococcus gnavus,-1,"31182571, 29183332"
+425,Chromobacterium violaceum,-1,29176969
+440,Streptococcus pyogenes,-1,"26866227, 29176969"
+452,Salmonella enterica,-1,27936347
+459,Mycobacterium tuberculosis,-1,"24363885, 12857778"
+460,Streptococcus mutans,-1,24154653
+461,Pseudomonas fluorescens,-1,11580985
+469,Streptococcus dysgalactiae,-1,19635028
+470,Brucella melitensis,-1,"12525425, 9204307"
+486,Aggregatibacter actinomycetemcomitans,-1,"20200418, 25494963"
+491,Mycobacterium avium,-1,30574687
+504,Neisseria gonorrhoeae,-1,"29430011, 28357376"
+512,Citrobacter koseri,-1,27412805
+526,Porphyromonas gingivalis,-1,24741603
+528,Achromobacter xylosoxidans,-1,"28894613, 19281752"
+534,Veillonella parvula,-1,8940482
+538,Shigella flexneri,-1,"10874731, 14975529"
+552,Streptococcus bovis (Streptococcus equinus),-1,29405829
+556,Comamonas testosteroni,-1,28203137

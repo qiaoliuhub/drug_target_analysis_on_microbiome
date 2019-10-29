@@ -1,0 +1,33 @@
+id,name,influence,reference
+25,Pediococcus acidilactici,1,18366003
+35,Lactobacillus ruminis,1,19222575
+51,Bifidobacterium bifidum,1,27649150
+86,Lactobacillus plantarum,1,28271469
+117,Lactobacillus brevis,1,30577728
+135,Bifidobacterium pseudocatenulatum,1,28821814
+161,Propionibacterium freudenreichii (Propionibacterium shermanii),1,28505101
+169,Lactococcus lactis,1,28376880
+179,Clostridium butyricum,1,30563064
+191,Streptococcus thermophilus,1,27754427
+224,Lactobacillus paracasei,1,30501107
+237,Eubacterium hallii,1,27242734
+244,Bifidobacterium breve,1,29044140
+273,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",1,28483500
+275,Oxalobacter formigenes,1,12147479
+280,Akkermansia muciniphila,1,30041463
+304,Bacillus coagulans,1,31190556
+312,Lactobacillus helveticus,1,23181058
+330,Lactobacillus fermentum,1,25519525
+337,Bacteroides fragilis,1,20036803
+364,Lactobacillus salivarius,1,29409331
+381,Bifidobacterium animalis,1,28753102
+400,Lactobacillus reuteri,1,29725324
+410,Bifidobacterium adolescentis,1,29954454
+412,Bacillus clausii,1,30103531
+429,Lactobacillus amylovorus,1,24733511
+443,Lactobacillus casei,1,27244133
+477,Lactobacillus acidophilus,1,10651933
+500,Paenibacillus polymyxa,1,21132276
+505,Faecalibacterium prausnitzii,1,29566907
+524,Lactobacillus crispatus,1,29196153
+560,Lactobacillus rhamnosus,1,25186587
