@@ -13,7 +13,7 @@ logger.setLevel(logging.DEBUG)
 if __name__ == "__main__":
 
     # each element in results = [evalue, total_seq, aligned_seq, percentage]
-    distri_results = [[i, 0, 0, 0] for i in xrange(aligned_protein_in_pdb_config.maximum_evalue_index + 1)]
+    distri_results = [[i, 0, 0, 0] for i in range(aligned_protein_in_pdb_config.maximum_evalue_index + 1)]
     aligned_seqs = [0] * (aligned_protein_in_pdb_config.maximum_evalue_index + 1)
     total_seqs = 0
 

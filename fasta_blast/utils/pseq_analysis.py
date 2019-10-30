@@ -162,10 +162,10 @@ class PseqAnalysis:
             return total_records, results
 
         except Exception as e:
-            logger.error("Fail to analyze file %s, caused by %s", file, str(e))
+            logger.error("Fail to analyze file %s, caused by %s", xml_file, str(e))
             error_file = os.path.join(os.getcwd(), "error_file")
             with open(error_file, "w") as err:
-                err.write("Fail to analyze file %s" % file)
+                err.write("Fail to analyze file %s" % xml_file)
 
             return 0, results
 

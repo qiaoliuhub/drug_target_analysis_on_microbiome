@@ -16,6 +16,8 @@ if __name__ == '__main__':
     db_info['join_inchikey'] = db_info['InChIKey'].str.split("-").str[0]
     pc_info['join_inchikey'] = pc_info['InChIKey'].str.split("-").str[0]
     pc_info = pc_info.drop_duplicates(subset=['join_inchikey'])
+    db_info = db_info[~db_info['join_inchikey'].isnull()]
+    pc_info = pc_info[~pc_info['join_inchikey'].isnull()]
     new_df = db_info.merge(pc_info, on = 'join_inchikey')
     new_df.to_csv(args.output_file, header = args.header, index = False, mode='a+')
 

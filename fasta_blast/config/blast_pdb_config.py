@@ -10,7 +10,7 @@ part_num = 1
 threshold = 2
 
 # database name to use (directory path has been configured in environment variable)
-db = "pdb"
+db = "chembl"
 
 # This is the url to download, this is not need to be specified if dest_file_path is not empty
 url = ""
