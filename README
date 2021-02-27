@@ -1,0 +1,3 @@
+Microbe proteins druggability survey
+
+Protein sequences of 2232 microbes were downloaded from Human Microbiome Projects (HMP) [2, 44]. Druggable target sequences were downloaded from DrugBank (www.drugbank.ca) and ChEMBL websites (www.ebi.ac.uk/chembl) [45, 46]. They were saved as fasta format and reformatted to be a Blast database using PSI-Blast tools [47-49]. Each microbe protein sequences were searched against each target sequence database to find their homologs. Biopython package was used to perform sequence search using PSI-Blast [47-49]. All sequence search results with e-value lower than 10e-4 were saved to generate a plot of percentage of protein with homologs in each microbe versus –log (e-value).
